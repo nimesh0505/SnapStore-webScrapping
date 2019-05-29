@@ -1,0 +1,137 @@
+id,appname,appdesc,applink,category
+1,Chromium,"Chromium web browser, open-source version of Chrome",sudo snap install chromium,productivity
+2,Brave [community maintained],Community-maintained unofficial Snap of Brave Browser,sudo snap install brave,productivity
+3,Zenkit,"Track projects, organize collections, or brainstorm new ideas with Zenkit",sudo snap install zenkit,productivity
+4,Wekan,Open-Source kanban,sudo snap install wekan,productivity
+5,FromScratch,FromScratch,sudo snap install fromscratch,productivity
+6,Firefox,Mozilla Firefox web browser,sudo snap install firefox,productivity
+7,LibreOffice,"LibreOffice is a powerful office suite including word processing and creation of spreadsheets, slideshows and databases",sudo snap install libreoffice,productivity
+8,Mailspring,The best email app for people and teams at work,sudo snap install mailspring,productivity
+9,hiri,Hiri email client,sudo snap install hiri,productivity
+10,Opera,"Fast, secure, easy-to-use browser",sudo snap install opera,productivity
+11,Wavebox,Wavebox,sudo snap install wavebox,productivity
+12,ONLYOFFICE Desktop Editors,"An office suite that allows creating, viewing and editing local documents.",sudo snap install onlyoffice-desktopeditors,productivity
+13,Organize My Files,"One Click File Organizer for Windows, Mac & Linux",sudo snap install organize-my-files,productivity
+14,QOwnNotes,Plain-text file notepad with markdown support and ownCloud / Nextcloud integration,sudo snap install qownnotes,productivity
+15,Simplenote,The simplest way to keep notes.,sudo snap install simplenote,productivity
+16,Ghost Desktop,The professional publishing platform.,sudo snap install ghost-desktop,productivity
+17,Tusk,Refined Evernote desktop app,sudo snap install tusk,productivity
+18,Ao,Elegant Microsoft To-Do desktop app,sudo snap install ao,productivity
+19,Ora,Task management and team collaboration,sudo snap install ora,productivity
+20,Okular,Document Viewer,sudo snap install okular,productivity
+21,Evince,Document viewer for popular document formats,sudo snap install evince,productivity
+22,Skrifa,A simple word processor built with web technologies,sudo snap install skrifa,productivity
+23,FreeMind,A premier mind-mapping software written in Java,sudo snap install freemind,productivity
+24,Protogrid,Protogrid - The Platform for Business Applications,sudo snap install protogrid,productivity
+25,writefull,Writefull,sudo snap install writefull,productivity
+26,Mutt,Mutt,sudo snap install mutt,productivity
+27,Taskbook,"Tasks, boards & notes for the command-line habitat",sudo snap install taskbook,productivity
+28,Imaginary Teleprompter,"A complete, professional grade, free software teleprompter.",sudo snap install imaginary-teleprompter,productivity
+29,Pendulums,"Pendulums - Free, Unlimited, Easy to Use Time Tracking Application",sudo snap install pendulums,productivity
+30,Colibri,Browse without tabs,sudo snap install colibri,productivity
+31,giganotes,Modern cross platform note taking application,sudo snap install giganotes,productivity
+32,Text Editor,Edit text files,sudo snap install gedit,productivity
+33,Open Drive (Google Drive Client),This is a Linux GUI client for Google Drive.,sudo snap install odrive-unofficial,productivity
+34,wps-office,WPS Office Suite,sudo snap install wps-office,productivity
+35,Midori Web Browser,"a lightweight, fast, and free web browser",sudo snap install midori,productivity
+36,Thunderbird,Mozilla Thunderbird email application,sudo snap install thunderbird--edge,productivity
+37,Hugo,"A Fast and Flexible Static Site Generator built with love by bep, spf13 and friends in Go.",sudo snap install hugo,productivity
+38,Heimer,Heimer is a simple cross-platform mind map tool.,sudo snap install heimer,productivity
+39,todoist-thibaut,Basic Todoist electron snap,sudo snap install todoist-thibaut,productivity
+40,MicroPad,A powerful note-taking app that helps you organise + take notes without restrictions.,sudo snap install micropad,productivity
+41,GNOME Calendar,Calendar for GNOME,sudo snap install gnome-calendar,productivity
+42,draftman,A plain-text draft management tool for novelists.,sudo snap install draftman --classic,productivity
+43,k6,K6,sudo snap install k6,productivity
+44,Recollectr,Record and recall without breaking your flow,sudo snap install recollectr,productivity
+45,Waiter Restaurant POS Bar Point of Sale,Waiterio Restaurant POS is the fastest way to handle restaurants' orders,sudo snap install waiterio-restaurant-pos,productivity
+46,GNU Emacs,GNU Emacs is the extensible self-documenting text editor,sudo snap install emacs --classic,productivity
+47,Recollectr,Record and recall without breaking your flow,sudo snap install recollectr,productivity
+48,Waiter Restaurant POS Bar Point of Sale,Waiterio Restaurant POS is the fastest way to handle restaurants' orders,sudo snap install waiterio-restaurant-pos,productivity
+49,GNU Emacs,GNU Emacs is the extensible self-documenting text editor,sudo snap install emacs --classic,productivity
+50,Registrac,Registrac,sudo snap install registrac,productivity
+51,PDF Mix Tool,"An application to split, merge, rotate and mix PDF files",sudo snap install pdfmixtool,productivity
+52,notepadqq,A Notepad++-like editor for Linux.,sudo snap install notepadqq,productivity
+53,ascii-clock,An analog clock for your terminal,sudo snap install ascii-clock,productivity
+54,Gmail Desktop,A cross-platform dedicated Gmail application,sudo snap install gmail-desktop,productivity
+55,Quelea,Open source church projection software,sudo snap install quelea,productivity
+56,Toggl Desktop,Simple and Intuitive Time Tracking Software,sudo snap install toggldesktop--edge,productivity
+57,dotdrop,"Save your dotfiles once, deploy them everywhere",sudo snap install dotdrop,productivity
+58,unifonter,unifonter is a filter that tries to make ASCII fancy with the help of Unicode,sudo snap install unifonter,productivity
+59,panorama,A simple system monitor for Linux,sudo snap install panorama,productivity
+60,icecream-sundae,Commandline Monitor for Icecream.,sudo snap install icecream-sundae-snap,productivity
+61,bzoing,Simple calendar alarms for your desktop,sudo snap install bzoing,productivity
+62,Wire,Secure and private chat with end-to-end encryption,sudo snap install wire,productivity
+63,barrier-kvm,Eliminate the barrier between your machines.,sudo snap install barrier-kvm,productivity
+64,Math Cracker,Crack of Mathematics,sudo snap install math-cracker,productivity
+65,Rambox CE,Rambox CE,sudo snap install rambox,productivity
+66,ElectronMail,Unofficial desktop app for ProtonMail and Tutanota end-to-end encrypted email providers,sudo snap install electron-mail,productivity
+67,Teams for Linux,Unofficial Microsoft Teams client for Linux using Electron.,sudo snap install teams-for-linux,productivity
+68,SimpleScreenRecorder (UNOFFICIAL),A feature-rich screen recorder,sudo snap install simplescreenrecorder-brlin,productivity
+69,zzBots,Integrate & Automate Your Apps,sudo snap install zzbots,productivity
+70,Slack,Team communication for the 21st century.,sudo snap install slack --classic,productivity
+71,Mazu Editor,"A minimalist text editor with syntax highlight, copy/paste, and search",sudo snap install mazu-editor,productivity
+72,cyramix,Get your own virtual world.,sudo snap install cyramix--beta,productivity
+73,Symphytum,Easy-to-use personal database software,sudo snap install symphytum,productivity
+74,(UNOFFICIAL) nano,"Small, friendly text editor inspired by Pico",sudo snap install nano,productivity
+75,transmission-daemon-simosx,"Transmission is a fast, easy, and free BitTorrent client.",sudo snap install transmission-daemon-simosx,productivity
+76,Rambox Pro,Rambox Pro,sudo snap install ramboxpro,productivity
+77,Bitwarden,A secure and free password manager for all of your devices.,sudo snap install bitwarden,productivity
+78,qts3browser,Amazon S3 client written in QT,sudo snap install qts3browser--edge,productivity
+79,jotit,Note taking app,sudo snap install jotit,productivity
+80,Bitrix24 (Beta),Bitrix24 Desktop (beta),sudo snap install bitrix24,productivity
+81,SmartCalc,Clever calc for clever people,sudo snap install smartcalc--edge,productivity
+82,Skype,One Skype for all your devices. New features. New look. All Skype.,sudo snap install skype --classic,productivity
+83,Flock,Flock: Team Communication App,sudo snap install flock-chat,productivity
+84,task-creator,Create github issue,sudo snap install task-creator,productivity
+85,google-suggests,Google autocomplete suggestions on the command-line,sudo snap install google-suggests--edge,productivity
+86,P3X OneNote,Linux Electron Onenote - A Linux compatible version of OneNote,sudo snap install p3x-onenote,productivity
+87,email-securely-app (OBSOLETE),"Obsolete, see description",sudo snap install email-securely-app,productivity
+88,remmina,Remote Desktop Client,sudo snap install remmina,productivity
+89,Domotz Pro Agent,Powerful IT Tools to Monitor and Manage Multiple Remote Networks,sudo snap install domotzpro-agent-publicstore,productivity
+90,GNOME Web,Web browser for GNOME,sudo snap install epiphany,productivity
+91,md2pdf-webserver,"md2pdf server package, to render Markdown text from clients into a pretty PDF",sudo snap install md2pdf-webserver--beta,productivity
+92,"Polar - Manager for books, PDFs and web","Polar Bookshelf - Manager for web, books, PDFs + notes",sudo snap install polar-bookshelf,productivity
+93,Prospect Mail,Unofficial Outlook client,sudo snap install prospect-mail,productivity
+94,Count It,Tik Tik ...,sudo snap install countit,productivity
+95,clari3d-lite-64,Welcome to the main installation package of Clari3D Lite.,sudo snap install clari3d-lite-64,productivity
+96,WPS Office Multi-Language,WPS Office Suite with support for many languages,sudo snap install wps-office-multilang,productivity
+97,Snippet Pixie,Your little expandable text snippet helper,sudo snap install snippetpixie--candidate --classic,productivity
+98,(UNOFFICIAL) nano (Strict Confinement),"Small, friendly text editor (Strict Confinement)",sudo snap install nano-strict,productivity
+99,Winds - RSS & Podcasts,Winds,sudo snap install winds,productivity
+100,fman,"Dual-pane file manager for Mac, Windows and Linux",sudo snap install fman,productivity
+101,Postbird,PostgreSQL GUI client,sudo snap install postbird,productivity
+102,Scrn,Securely access your computer from anywhere in the world,sudo snap install scrn,productivity
+103,banana-accounting,Spreadsheet-inspired accounting & financial planning software,sudo snap install banana-accounting,productivity
+104,Facebook messenger port,Simple and smart Facebook Messenger Desktop App. Hope that you'll like it.,sudo snap install messengerport,productivity
+105,doorlin,Organisieren & Teilen im Team,sudo snap install doorlin,productivity
+106,bunqDesktop,"The unofficial, free and open source desktop application for the bunq API",sudo snap install bunqdesktop,productivity
+107,md2pdf-client,Use an md2pdf server to render Markdown text into a pretty PDF,sudo snap install md2pdf-client,productivity
+108,TelemetryTV Media Player,TelemetryTV Player,sudo snap install telemetrytv,productivity
+109,inoxision-webclient,inoxision ENTERPRISEsuite webclient,sudo snap install inoxision-webclient,productivity
+110,Telegram Desktop,Official desktop client for the Telegram messenger,sudo snap install telegram-desktop,productivity
+111,Mycroft,Your AI personal assistant!,sudo snap install mycroft,productivity
+112,freeman,FreeMAN,sudo snap install freeman--beta,productivity
+113,large-pcap-analyzer,Command-line utility to process .PCAP files very quickly.,sudo snap install large-pcap-analyzer,productivity
+114,bottle,A Bitcoin Browser,sudo snap install bottle,productivity
+115,Oversetter,oversetter,sudo snap install oversetter,productivity
+116,Sticky Notes,A Sticky Notes Application For Linux,sudo snap install stickynotes,productivity
+117,managetime,timer,sudo snap install managetime--beta,productivity
+118,mackup,Keep your application settings in sync,sudo snap install mackup --classic,productivity
+119,namegen,Name generator for writers,sudo snap install namegen,productivity
+120,omegat-cat,"OmegaT, the free (GPL) translation memory tool",sudo snap install omegat-cat,productivity
+121,protonmail-desktop-unofficial,Protonmail Desktop (unofficial),sudo snap install protonmail-desktop-unofficial,productivity
+122,ICQ,ICQ for Linux,sudo snap install icq-im--beta,productivity
+123,Signal Desktop,"Signal Private Messenger for Windows, Mac, and Linux",sudo snap install signal-desktop,productivity
+124,Overleaf Desktop,An Overleaf Desktop Application,sudo snap install overleaf,productivity
+125,Anki - unofficial,"Anki is a friendly, intelligent spaced learning system.",sudo snap install anki-woodrow--beta,productivity
+126,WPS Office - All languages - No internet,WPS Office Suite all languages with no internet connection,sudo snap install wps-office-all-lang-no-internet,productivity
+127,agent,Mail.Ru Agent for Linux,sudo snap install agent--edge,productivity
+128,Evernote Web Client,Evernote Web Client,sudo snap install evernote-web-client,productivity
+129,superproductivity,superProductivity,sudo snap install superproductivity,productivity
+130,cw-sh,The best way to tail AWS Cloudwatch Logs from your terminal,sudo snap install cw-sh,productivity
+131,zulip,Zulip,sudo snap install zulip,productivity
+132,Start & Doc,Start & Doc,sudo snap install start-and-doc,productivity
+133,workbase-server,WorkBase,sudo snap install workbase-server,productivity
+134,Inkdrop,Note-taking App with Robust Markdown Editor,sudo snap install inkdrop,productivity
+135,Auryo,Auryo,sudo snap install auryo,productivity
+136,Twist · Team Communication,A Team Communication App for Remote Work,sudo snap install twist,productivity

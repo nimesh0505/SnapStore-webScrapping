@@ -1,0 +1,276 @@
+1,GNOME System Monitor,System Monitor,sudo snap install gnome-system-monitor,utilities
+2,Mumble,"Mumble is an open source, low-latency, high quality voice chat software.",sudo snap install mumble,utilities
+3,GHex,Hex Editor,sudo snap install ghex-udt,utilities
+4,htop,Interactive processes viewer,sudo snap install htop,utilities
+5,Termius,Cross-platform SSH client,sudo snap install termius-app,utilities
+6,teleconsole,Share your terminal and forward local TCP ports to people you trust.,sudo snap install teleconsole --classic,utilities
+7,wormhole,"get things from one computer to another, safely",sudo snap install wormhole,utilities
+8,cloudtag,"sharing files, easier.",sudo snap install cloudtag,utilities
+9,snapdiff,Compare two snaps in the style of debdiff,sudo snap install snapdiff --classic,utilities
+10,rclone,"""rsync for cloud storage""  ",sudo snap install rclone,utilities
+11,fkill,Fabulously kill processes. Cross-platform.,sudo snap install fkill,utilities
+12,Syncthing,Open Source Continuous File Synchronization,sudo snap install syncthing,utilities
+13,Links,Web browser running in text mode,sudo snap install links,utilities
+14,cpustat,periodic cpu utilization statistics,sudo snap install cpustat,utilities
+15,forkstat,process fork/exec/exit monitoring tool,sudo snap install forkstat,utilities
+16,gotop,A top like command line tool with Terminal UI,sudo snap install gotop,utilities
+17,fast,Test your internet download speed from terminal.,sudo snap install fast,utilities
+18,tio,A simple TTY terminal I/O application,sudo snap install tio --classic,utilities
+19,mackup,Keep your application settings in sync,sudo snap install mackup --classic,utilities
+20,mapscii,The whole world in your console.,sudo snap install mapscii,utilities
+21,s-search,Open a web search in your terminal.,sudo snap install s-search,utilities
+22,sFTP Client,"Transfer files with FTP, FTPS, SFTP and Cloud Services (Including SSH Terminal)",sudo snap install sftpclient,utilities
+23,filebot,The ultimate TV and Movie Renamer,sudo snap install filebot,utilities
+24,Bitwarden CLI,A secure and free password manager for all of your devices.,sudo snap install bw,utilities
+25,serve,serve starts a simple temporary static file server in your current directory,sudo snap install serve,utilities
+26,slcli,Python based SoftLayer API Tool.,sudo snap install slcli,utilities
+27,lnav,Log file navigator,sudo snap install lnav,utilities
+28,GNOME Logs,A log viewer for the systemd journal,sudo snap install gnome-logs,utilities
+29,GNOME Characters,A character map application,sudo snap install gnome-characters,utilities
+30,P7Zip - Desktop,P7Zip - Desktop,sudo snap install p7zip-desktop,utilities
+31,µTorrent,µTorrent is the no-1 BitTorrent download client on desktops worldwide.,sudo snap install utorrent,utilities
+32,pdftk,command-line tool for working with PDF files,sudo snap install pdftk,utilities
+33,PDF Mix Tool,"An application to split, merge, rotate and mix PDF files",sudo snap install pdfmixtool,utilities
+34,simplescreenrecorder,ssr,sudo snap install simplescreenrecorder,utilities
+35,b1freearchiver,Free file archiver and encryption software,sudo snap install b1freearchiver,utilities
+36,GNOME Clocks,"Simple GNOME app with stopwatch, timer, and world clock support",sudo snap install gnome-clocks,utilities
+37,pac-vs,PAC is a Perl/GTK Gnome replacement for SecureCRT/Putty/etc.,sudo snap install pac-vs,utilities
+38,Teatime,A simple egg timer application for Unity & Dash to Dock,sudo snap install teatime,utilities
+39,stress-ng,"A tool to load, stress test and benchmark a computer system",sudo snap install stress-ng,utilities
+40,bcompare,bcompare is a powerful time-saving utility for comparing files & folders.,sudo snap install bcompare,utilities
+41,ark,Work with file archives,sudo snap install ark--candidate,utilities
+42,Clock,Ubuntu Clock application for the Unity desktop,sudo snap install ubuntu-clock-app,utilities
+43,GNOME Font Viewer,View fonts on your system,sudo snap install gnome-font-viewer,utilities
+44,GNOME Contacts,A contacts manager for GNOME,sudo snap install gnome-contacts,utilities
+45,Sensors Unity,A simple sensors GUI for Unity & Dash to Dock,sudo snap install sensors-unity,utilities
+46,marketo-monkey,CLI tool to assist Marketo integration,sudo snap install marketo-monkey,utilities
+47,GNOME System Monitor,System Monitor,sudo snap install gnome-system-monitor,utilities
+48,Mumble,"Mumble is an open source, low-latency, high quality voice chat software.",sudo snap install mumble,utilities
+49,GHex,Hex Editor,sudo snap install ghex-udt,utilities
+50,htop,Interactive processes viewer,sudo snap install htop,utilities
+51,Termius,Cross-platform SSH client,sudo snap install termius-app,utilities
+52,teleconsole,Share your terminal and forward local TCP ports to people you trust.,sudo snap install teleconsole --classic,utilities
+53,wormhole,"get things from one computer to another, safely",sudo snap install wormhole,utilities
+54,cloudtag,"sharing files, easier.",sudo snap install cloudtag,utilities
+55,snapdiff,Compare two snaps in the style of debdiff,sudo snap install snapdiff --classic,utilities
+56,rclone,"""rsync for cloud storage""  ",sudo snap install rclone,utilities
+57,fkill,Fabulously kill processes. Cross-platform.,sudo snap install fkill,utilities
+58,Syncthing,Open Source Continuous File Synchronization,sudo snap install syncthing,utilities
+59,Links,Web browser running in text mode,sudo snap install links,utilities
+60,cpustat,periodic cpu utilization statistics,sudo snap install cpustat,utilities
+61,forkstat,process fork/exec/exit monitoring tool,sudo snap install forkstat,utilities
+62,gotop,A top like command line tool with Terminal UI,sudo snap install gotop,utilities
+63,fast,Test your internet download speed from terminal.,sudo snap install fast,utilities
+64,tio,A simple TTY terminal I/O application,sudo snap install tio --classic,utilities
+65,mackup,Keep your application settings in sync,sudo snap install mackup --classic,utilities
+66,mapscii,The whole world in your console.,sudo snap install mapscii,utilities
+67,s-search,Open a web search in your terminal.,sudo snap install s-search,utilities
+68,sFTP Client,"Transfer files with FTP, FTPS, SFTP and Cloud Services (Including SSH Terminal)",sudo snap install sftpclient,utilities
+69,filebot,The ultimate TV and Movie Renamer,sudo snap install filebot,utilities
+70,Bitwarden CLI,A secure and free password manager for all of your devices.,sudo snap install bw,utilities
+71,serve,serve starts a simple temporary static file server in your current directory,sudo snap install serve,utilities
+72,slcli,Python based SoftLayer API Tool.,sudo snap install slcli,utilities
+73,lnav,Log file navigator,sudo snap install lnav,utilities
+74,GNOME Logs,A log viewer for the systemd journal,sudo snap install gnome-logs,utilities
+75,GNOME Characters,A character map application,sudo snap install gnome-characters,utilities
+76,P7Zip - Desktop,P7Zip - Desktop,sudo snap install p7zip-desktop,utilities
+77,µTorrent,µTorrent is the no-1 BitTorrent download client on desktops worldwide.,sudo snap install utorrent,utilities
+78,pdftk,command-line tool for working with PDF files,sudo snap install pdftk,utilities
+79,PDF Mix Tool,"An application to split, merge, rotate and mix PDF files",sudo snap install pdfmixtool,utilities
+80,simplescreenrecorder,ssr,sudo snap install simplescreenrecorder,utilities
+81,b1freearchiver,Free file archiver and encryption software,sudo snap install b1freearchiver,utilities
+82,GNOME Clocks,"Simple GNOME app with stopwatch, timer, and world clock support",sudo snap install gnome-clocks,utilities
+83,pac-vs,PAC is a Perl/GTK Gnome replacement for SecureCRT/Putty/etc.,sudo snap install pac-vs,utilities
+84,Teatime,A simple egg timer application for Unity & Dash to Dock,sudo snap install teatime,utilities
+85,stress-ng,"A tool to load, stress test and benchmark a computer system",sudo snap install stress-ng,utilities
+86,bcompare,bcompare is a powerful time-saving utility for comparing files & folders.,sudo snap install bcompare,utilities
+87,ark,Work with file archives,sudo snap install ark--candidate,utilities
+88,Clock,Ubuntu Clock application for the Unity desktop,sudo snap install ubuntu-clock-app,utilities
+89,GNOME Font Viewer,View fonts on your system,sudo snap install gnome-font-viewer,utilities
+90,GNOME Contacts,A contacts manager for GNOME,sudo snap install gnome-contacts,utilities
+91,Sensors Unity,A simple sensors GUI for Unity & Dash to Dock,sudo snap install sensors-unity,utilities
+92,marketo-monkey,CLI tool to assist Marketo integration,sudo snap install marketo-monkey,utilities
+93,GNOME System Monitor,System Monitor,sudo snap install gnome-system-monitor,utilities
+94,Mumble,"Mumble is an open source, low-latency, high quality voice chat software.",sudo snap install mumble,utilities
+95,GHex,Hex Editor,sudo snap install ghex-udt,utilities
+96,htop,Interactive processes viewer,sudo snap install htop,utilities
+97,Termius,Cross-platform SSH client,sudo snap install termius-app,utilities
+98,teleconsole,Share your terminal and forward local TCP ports to people you trust.,sudo snap install teleconsole --classic,utilities
+99,wormhole,"get things from one computer to another, safely",sudo snap install wormhole,utilities
+100,cloudtag,"sharing files, easier.",sudo snap install cloudtag,utilities
+101,snapdiff,Compare two snaps in the style of debdiff,sudo snap install snapdiff --classic,utilities
+102,rclone,"""rsync for cloud storage""  ",sudo snap install rclone,utilities
+103,fkill,Fabulously kill processes. Cross-platform.,sudo snap install fkill,utilities
+104,Syncthing,Open Source Continuous File Synchronization,sudo snap install syncthing,utilities
+105,Links,Web browser running in text mode,sudo snap install links,utilities
+106,cpustat,periodic cpu utilization statistics,sudo snap install cpustat,utilities
+107,forkstat,process fork/exec/exit monitoring tool,sudo snap install forkstat,utilities
+108,gotop,A top like command line tool with Terminal UI,sudo snap install gotop,utilities
+109,fast,Test your internet download speed from terminal.,sudo snap install fast,utilities
+110,tio,A simple TTY terminal I/O application,sudo snap install tio --classic,utilities
+111,mackup,Keep your application settings in sync,sudo snap install mackup --classic,utilities
+112,mapscii,The whole world in your console.,sudo snap install mapscii,utilities
+113,s-search,Open a web search in your terminal.,sudo snap install s-search,utilities
+114,sFTP Client,"Transfer files with FTP, FTPS, SFTP and Cloud Services (Including SSH Terminal)",sudo snap install sftpclient,utilities
+115,filebot,The ultimate TV and Movie Renamer,sudo snap install filebot,utilities
+116,Bitwarden CLI,A secure and free password manager for all of your devices.,sudo snap install bw,utilities
+117,serve,serve starts a simple temporary static file server in your current directory,sudo snap install serve,utilities
+118,slcli,Python based SoftLayer API Tool.,sudo snap install slcli,utilities
+119,lnav,Log file navigator,sudo snap install lnav,utilities
+120,GNOME Logs,A log viewer for the systemd journal,sudo snap install gnome-logs,utilities
+121,GNOME Characters,A character map application,sudo snap install gnome-characters,utilities
+122,P7Zip - Desktop,P7Zip - Desktop,sudo snap install p7zip-desktop,utilities
+123,µTorrent,µTorrent is the no-1 BitTorrent download client on desktops worldwide.,sudo snap install utorrent,utilities
+124,pdftk,command-line tool for working with PDF files,sudo snap install pdftk,utilities
+125,PDF Mix Tool,"An application to split, merge, rotate and mix PDF files",sudo snap install pdfmixtool,utilities
+126,simplescreenrecorder,ssr,sudo snap install simplescreenrecorder,utilities
+127,b1freearchiver,Free file archiver and encryption software,sudo snap install b1freearchiver,utilities
+128,GNOME Clocks,"Simple GNOME app with stopwatch, timer, and world clock support",sudo snap install gnome-clocks,utilities
+129,pac-vs,PAC is a Perl/GTK Gnome replacement for SecureCRT/Putty/etc.,sudo snap install pac-vs,utilities
+130,Teatime,A simple egg timer application for Unity & Dash to Dock,sudo snap install teatime,utilities
+131,stress-ng,"A tool to load, stress test and benchmark a computer system",sudo snap install stress-ng,utilities
+132,bcompare,bcompare is a powerful time-saving utility for comparing files & folders.,sudo snap install bcompare,utilities
+133,ark,Work with file archives,sudo snap install ark--candidate,utilities
+134,Clock,Ubuntu Clock application for the Unity desktop,sudo snap install ubuntu-clock-app,utilities
+135,GNOME Font Viewer,View fonts on your system,sudo snap install gnome-font-viewer,utilities
+136,GNOME Contacts,A contacts manager for GNOME,sudo snap install gnome-contacts,utilities
+137,Sensors Unity,A simple sensors GUI for Unity & Dash to Dock,sudo snap install sensors-unity,utilities
+138,marketo-monkey,CLI tool to assist Marketo integration,sudo snap install marketo-monkey,utilities
+139,GNOME System Monitor,System Monitor,sudo snap install gnome-system-monitor,utilities
+140,Mumble,"Mumble is an open source, low-latency, high quality voice chat software.",sudo snap install mumble,utilities
+141,GHex,Hex Editor,sudo snap install ghex-udt,utilities
+142,htop,Interactive processes viewer,sudo snap install htop,utilities
+143,Termius,Cross-platform SSH client,sudo snap install termius-app,utilities
+144,teleconsole,Share your terminal and forward local TCP ports to people you trust.,sudo snap install teleconsole --classic,utilities
+145,wormhole,"get things from one computer to another, safely",sudo snap install wormhole,utilities
+146,cloudtag,"sharing files, easier.",sudo snap install cloudtag,utilities
+147,snapdiff,Compare two snaps in the style of debdiff,sudo snap install snapdiff --classic,utilities
+148,rclone,"""rsync for cloud storage""  ",sudo snap install rclone,utilities
+149,fkill,Fabulously kill processes. Cross-platform.,sudo snap install fkill,utilities
+150,Syncthing,Open Source Continuous File Synchronization,sudo snap install syncthing,utilities
+151,Links,Web browser running in text mode,sudo snap install links,utilities
+152,cpustat,periodic cpu utilization statistics,sudo snap install cpustat,utilities
+153,forkstat,process fork/exec/exit monitoring tool,sudo snap install forkstat,utilities
+154,gotop,A top like command line tool with Terminal UI,sudo snap install gotop,utilities
+155,fast,Test your internet download speed from terminal.,sudo snap install fast,utilities
+156,tio,A simple TTY terminal I/O application,sudo snap install tio --classic,utilities
+157,mackup,Keep your application settings in sync,sudo snap install mackup --classic,utilities
+158,mapscii,The whole world in your console.,sudo snap install mapscii,utilities
+159,s-search,Open a web search in your terminal.,sudo snap install s-search,utilities
+160,sFTP Client,"Transfer files with FTP, FTPS, SFTP and Cloud Services (Including SSH Terminal)",sudo snap install sftpclient,utilities
+161,filebot,The ultimate TV and Movie Renamer,sudo snap install filebot,utilities
+162,Bitwarden CLI,A secure and free password manager for all of your devices.,sudo snap install bw,utilities
+163,serve,serve starts a simple temporary static file server in your current directory,sudo snap install serve,utilities
+164,slcli,Python based SoftLayer API Tool.,sudo snap install slcli,utilities
+165,lnav,Log file navigator,sudo snap install lnav,utilities
+166,GNOME Logs,A log viewer for the systemd journal,sudo snap install gnome-logs,utilities
+167,GNOME Characters,A character map application,sudo snap install gnome-characters,utilities
+168,P7Zip - Desktop,P7Zip - Desktop,sudo snap install p7zip-desktop,utilities
+169,µTorrent,µTorrent is the no-1 BitTorrent download client on desktops worldwide.,sudo snap install utorrent,utilities
+170,pdftk,command-line tool for working with PDF files,sudo snap install pdftk,utilities
+171,PDF Mix Tool,"An application to split, merge, rotate and mix PDF files",sudo snap install pdfmixtool,utilities
+172,simplescreenrecorder,ssr,sudo snap install simplescreenrecorder,utilities
+173,b1freearchiver,Free file archiver and encryption software,sudo snap install b1freearchiver,utilities
+174,GNOME Clocks,"Simple GNOME app with stopwatch, timer, and world clock support",sudo snap install gnome-clocks,utilities
+175,pac-vs,PAC is a Perl/GTK Gnome replacement for SecureCRT/Putty/etc.,sudo snap install pac-vs,utilities
+176,Teatime,A simple egg timer application for Unity & Dash to Dock,sudo snap install teatime,utilities
+177,stress-ng,"A tool to load, stress test and benchmark a computer system",sudo snap install stress-ng,utilities
+178,bcompare,bcompare is a powerful time-saving utility for comparing files & folders.,sudo snap install bcompare,utilities
+179,ark,Work with file archives,sudo snap install ark--candidate,utilities
+180,Clock,Ubuntu Clock application for the Unity desktop,sudo snap install ubuntu-clock-app,utilities
+181,GNOME Font Viewer,View fonts on your system,sudo snap install gnome-font-viewer,utilities
+182,GNOME Contacts,A contacts manager for GNOME,sudo snap install gnome-contacts,utilities
+183,Sensors Unity,A simple sensors GUI for Unity & Dash to Dock,sudo snap install sensors-unity,utilities
+184,marketo-monkey,CLI tool to assist Marketo integration,sudo snap install marketo-monkey,utilities
+185,GNOME System Monitor,System Monitor,sudo snap install gnome-system-monitor,utilities
+186,Mumble,"Mumble is an open source, low-latency, high quality voice chat software.",sudo snap install mumble,utilities
+187,GHex,Hex Editor,sudo snap install ghex-udt,utilities
+188,htop,Interactive processes viewer,sudo snap install htop,utilities
+189,Termius,Cross-platform SSH client,sudo snap install termius-app,utilities
+190,teleconsole,Share your terminal and forward local TCP ports to people you trust.,sudo snap install teleconsole --classic,utilities
+191,wormhole,"get things from one computer to another, safely",sudo snap install wormhole,utilities
+192,cloudtag,"sharing files, easier.",sudo snap install cloudtag,utilities
+193,snapdiff,Compare two snaps in the style of debdiff,sudo snap install snapdiff --classic,utilities
+194,rclone,"""rsync for cloud storage""  ",sudo snap install rclone,utilities
+195,fkill,Fabulously kill processes. Cross-platform.,sudo snap install fkill,utilities
+196,Syncthing,Open Source Continuous File Synchronization,sudo snap install syncthing,utilities
+197,Links,Web browser running in text mode,sudo snap install links,utilities
+198,cpustat,periodic cpu utilization statistics,sudo snap install cpustat,utilities
+199,forkstat,process fork/exec/exit monitoring tool,sudo snap install forkstat,utilities
+200,gotop,A top like command line tool with Terminal UI,sudo snap install gotop,utilities
+201,fast,Test your internet download speed from terminal.,sudo snap install fast,utilities
+202,tio,A simple TTY terminal I/O application,sudo snap install tio --classic,utilities
+203,mackup,Keep your application settings in sync,sudo snap install mackup --classic,utilities
+204,mapscii,The whole world in your console.,sudo snap install mapscii,utilities
+205,s-search,Open a web search in your terminal.,sudo snap install s-search,utilities
+206,sFTP Client,"Transfer files with FTP, FTPS, SFTP and Cloud Services (Including SSH Terminal)",sudo snap install sftpclient,utilities
+207,filebot,The ultimate TV and Movie Renamer,sudo snap install filebot,utilities
+208,Bitwarden CLI,A secure and free password manager for all of your devices.,sudo snap install bw,utilities
+209,serve,serve starts a simple temporary static file server in your current directory,sudo snap install serve,utilities
+210,slcli,Python based SoftLayer API Tool.,sudo snap install slcli,utilities
+211,lnav,Log file navigator,sudo snap install lnav,utilities
+212,GNOME Logs,A log viewer for the systemd journal,sudo snap install gnome-logs,utilities
+213,GNOME Characters,A character map application,sudo snap install gnome-characters,utilities
+214,P7Zip - Desktop,P7Zip - Desktop,sudo snap install p7zip-desktop,utilities
+215,µTorrent,µTorrent is the no-1 BitTorrent download client on desktops worldwide.,sudo snap install utorrent,utilities
+216,pdftk,command-line tool for working with PDF files,sudo snap install pdftk,utilities
+217,PDF Mix Tool,"An application to split, merge, rotate and mix PDF files",sudo snap install pdfmixtool,utilities
+218,simplescreenrecorder,ssr,sudo snap install simplescreenrecorder,utilities
+219,b1freearchiver,Free file archiver and encryption software,sudo snap install b1freearchiver,utilities
+220,GNOME Clocks,"Simple GNOME app with stopwatch, timer, and world clock support",sudo snap install gnome-clocks,utilities
+221,pac-vs,PAC is a Perl/GTK Gnome replacement for SecureCRT/Putty/etc.,sudo snap install pac-vs,utilities
+222,Teatime,A simple egg timer application for Unity & Dash to Dock,sudo snap install teatime,utilities
+223,stress-ng,"A tool to load, stress test and benchmark a computer system",sudo snap install stress-ng,utilities
+224,bcompare,bcompare is a powerful time-saving utility for comparing files & folders.,sudo snap install bcompare,utilities
+225,ark,Work with file archives,sudo snap install ark--candidate,utilities
+226,Clock,Ubuntu Clock application for the Unity desktop,sudo snap install ubuntu-clock-app,utilities
+227,GNOME Font Viewer,View fonts on your system,sudo snap install gnome-font-viewer,utilities
+228,GNOME Contacts,A contacts manager for GNOME,sudo snap install gnome-contacts,utilities
+229,Sensors Unity,A simple sensors GUI for Unity & Dash to Dock,sudo snap install sensors-unity,utilities
+230,marketo-monkey,CLI tool to assist Marketo integration,sudo snap install marketo-monkey,utilities
+231,GNOME System Monitor,System Monitor,sudo snap install gnome-system-monitor,utilities
+232,Mumble,"Mumble is an open source, low-latency, high quality voice chat software.",sudo snap install mumble,utilities
+233,GHex,Hex Editor,sudo snap install ghex-udt,utilities
+234,htop,Interactive processes viewer,sudo snap install htop,utilities
+235,Termius,Cross-platform SSH client,sudo snap install termius-app,utilities
+236,teleconsole,Share your terminal and forward local TCP ports to people you trust.,sudo snap install teleconsole --classic,utilities
+237,wormhole,"get things from one computer to another, safely",sudo snap install wormhole,utilities
+238,cloudtag,"sharing files, easier.",sudo snap install cloudtag,utilities
+239,snapdiff,Compare two snaps in the style of debdiff,sudo snap install snapdiff --classic,utilities
+240,rclone,"""rsync for cloud storage""  ",sudo snap install rclone,utilities
+241,fkill,Fabulously kill processes. Cross-platform.,sudo snap install fkill,utilities
+242,Syncthing,Open Source Continuous File Synchronization,sudo snap install syncthing,utilities
+243,Links,Web browser running in text mode,sudo snap install links,utilities
+244,cpustat,periodic cpu utilization statistics,sudo snap install cpustat,utilities
+245,forkstat,process fork/exec/exit monitoring tool,sudo snap install forkstat,utilities
+246,gotop,A top like command line tool with Terminal UI,sudo snap install gotop,utilities
+247,fast,Test your internet download speed from terminal.,sudo snap install fast,utilities
+248,tio,A simple TTY terminal I/O application,sudo snap install tio --classic,utilities
+249,mackup,Keep your application settings in sync,sudo snap install mackup --classic,utilities
+250,mapscii,The whole world in your console.,sudo snap install mapscii,utilities
+251,s-search,Open a web search in your terminal.,sudo snap install s-search,utilities
+252,sFTP Client,"Transfer files with FTP, FTPS, SFTP and Cloud Services (Including SSH Terminal)",sudo snap install sftpclient,utilities
+253,filebot,The ultimate TV and Movie Renamer,sudo snap install filebot,utilities
+254,Bitwarden CLI,A secure and free password manager for all of your devices.,sudo snap install bw,utilities
+255,serve,serve starts a simple temporary static file server in your current directory,sudo snap install serve,utilities
+256,slcli,Python based SoftLayer API Tool.,sudo snap install slcli,utilities
+257,lnav,Log file navigator,sudo snap install lnav,utilities
+258,GNOME Logs,A log viewer for the systemd journal,sudo snap install gnome-logs,utilities
+259,GNOME Characters,A character map application,sudo snap install gnome-characters,utilities
+260,P7Zip - Desktop,P7Zip - Desktop,sudo snap install p7zip-desktop,utilities
+261,µTorrent,µTorrent is the no-1 BitTorrent download client on desktops worldwide.,sudo snap install utorrent,utilities
+262,pdftk,command-line tool for working with PDF files,sudo snap install pdftk,utilities
+263,PDF Mix Tool,"An application to split, merge, rotate and mix PDF files",sudo snap install pdfmixtool,utilities
+264,simplescreenrecorder,ssr,sudo snap install simplescreenrecorder,utilities
+265,b1freearchiver,Free file archiver and encryption software,sudo snap install b1freearchiver,utilities
+266,GNOME Clocks,"Simple GNOME app with stopwatch, timer, and world clock support",sudo snap install gnome-clocks,utilities
+267,pac-vs,PAC is a Perl/GTK Gnome replacement for SecureCRT/Putty/etc.,sudo snap install pac-vs,utilities
+268,Teatime,A simple egg timer application for Unity & Dash to Dock,sudo snap install teatime,utilities
+269,stress-ng,"A tool to load, stress test and benchmark a computer system",sudo snap install stress-ng,utilities
+270,bcompare,bcompare is a powerful time-saving utility for comparing files & folders.,sudo snap install bcompare,utilities
+271,ark,Work with file archives,sudo snap install ark--candidate,utilities
+272,Clock,Ubuntu Clock application for the Unity desktop,sudo snap install ubuntu-clock-app,utilities
+273,GNOME Font Viewer,View fonts on your system,sudo snap install gnome-font-viewer,utilities
+274,GNOME Contacts,A contacts manager for GNOME,sudo snap install gnome-contacts,utilities
+275,Sensors Unity,A simple sensors GUI for Unity & Dash to Dock,sudo snap install sensors-unity,utilities
+276,marketo-monkey,CLI tool to assist Marketo integration,sudo snap install marketo-monkey,utilities

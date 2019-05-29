@@ -1,0 +1,11 @@
+1,communitheme,The next Ubuntu theme built by the community.,sudo snap install communitheme,Personalisation
+2,ubuntu-budgie-welcome,Welcome screen application to greet new users on their first login.,sudo snap install ubuntu-budgie-welcome --classic,Personalisation
+3,WallpaperDownloader,"Download, manage and change your favorite wallpapers from the Internet",sudo snap install wallpaperdownloader,Personalisation
+4,Wonderwall,Powerful Desktop Wallpaper manager for Gnome Desktop,sudo snap install wonderwall,Personalisation
+5,Snap Store,"Snap Store is a graphical desktop application for discovering, installing and managing snaps on Linux.",sudo snap install snap-store,Personalisation
+6,egmde,"Try Mir as your desktop, or as a window on your desktop",sudo snap install egmde--beta --classic,Personalisation
+7,Easy Disk Cleaner,Find large space hogs on hard drive in seconds!  Free up disk space easily in a click!,sudo snap install easy-disk-cleaner,Personalisation
+8,Organize My Files,"One Click File Organizer for Windows, Mac & Linux",sudo snap install organize-my-files,Personalisation
+9,Disk Space Saver,Disk Space Analyzer that you will love!,sudo snap install disk-space-saver,Personalisation
+10,sweeper,history and temporary file cleaner,sudo snap install sweeper--edge,Personalisation
+11,chezmoi,"Manage your dotfiles across multiple machines, securely.",sudo snap install chezmoi --classic,Personalisation

@@ -1,0 +1,179 @@
+id,appname,appdesc,applink,category
+1,PyCharm CE,Python IDE for Professional Developers,sudo snap install pycharm-community --classic,development
+2,Postman,API Development Environment,sudo snap install postman,development
+3,Atom,A hackable text editor for the 21st Century.,sudo snap install atom --classic,development
+4,Notepad-Plus-Plus,Notepad-Plus-Plus is a free source code editor.,sudo snap install notepad-plus-plus,development
+5,Android Studio,The IDE for Android,sudo snap install android-studio --classic,development
+6,PhpStorm,PHP IDE for Professional Development,sudo snap install phpstorm --classic,development
+7,Eclipse,Extensible Tool Platform and Java IDE,sudo snap install eclipse --classic,development
+8,PyCharm Pro,Python IDE for Professional Developers,sudo snap install pycharm-professional --classic,development
+9,GitKraken,"For repo management, in-app code editing & issue tracking.",sudo snap install gitkraken,development
+10,IDEA Community,Capable & Ergonomic Java IDE,sudo snap install intellij-idea-community --classic,development
+11,notepadqq,A Notepad++-like editor for Linux.,sudo snap install notepadqq,development
+12,kubectl,Command line client for controlling a Kubernetes cluster.,sudo snap install kubectl --classic,development
+13,powershell,PowerShell for every system!,sudo snap install powershell --classic,development
+14,IDEA Ultimate,"Capable & Ergonomic Java IDE for Enterprise, Web & Mobile Development",sudo snap install intellij-idea-ultimate --classic,development
+15,Cacher,Cacher is a code snippet library for professional developers. Use it to build a technical knowledge base for you and your team.,sudo snap install cacher,development
+16,WebStorm,Powerful IDE for modern JavaScript development,sudo snap install webstorm --classic,development
+17,Brackets,"Brackets is a modern code editor for HTML, CSS and JavaScript.",sudo snap install brackets --classic,development
+18,Insomnia,Insomnia REST Client,sudo snap install insomnia,development
+19,fx,Command-line tool and terminal JSON viewer,sudo snap install fx,development
+20,git-standup,Recall what you did on the last working day.,sudo snap install git-standup--edge,development
+21,RedisDesktopManager,Redis Desktop Manager,sudo snap install redis-desktop-manager,development
+22,Go,"Go programming language compiler, linker, stdlib",sudo snap install go --classic,development
+23,DataGrip,IntelliJ-based IDE for databases and SQL,sudo snap install datagrip --classic,development
+24,CLion,A cross-platform IDE for C and C++,sudo snap install clion --classic,development
+25,PyCharm EDU,Easy and Professional Tool to Learn & Teach Programming with Python,sudo snap install pycharm-educational --classic,development
+26,robo3t-snap,Robo 3T,sudo snap install robo3t-snap,development
+27,node,Node.js,sudo snap install node --channel=10/stable --classic,development
+28,GoLand,A Clever IDE to Go,sudo snap install goland --classic,development
+29,RubyMine,The Most Intelligent Ruby and Rails IDE,sudo snap install rubymine --classic,development
+30,snapcraft,easily create snaps,sudo snap install snapcraft --classic,development
+31,sqlitebrowser-casept,Unofficial snap of the lightweight SQLite DB editing tool.,sudo snap install sqlitebrowser-casept,development
+32,git-cola,The highly caffeinated Git GUI,sudo snap install git-cola,development
+33,Kotlin,Command line Kotlin compiler,sudo snap install kotlin --classic,development
+34,kotlin-native,Kotlin/Native compiler,sudo snap install kotlin-native --classic,development
+35,qucs-spice,Quite Universal Circuit Simulator,sudo snap install qucs-spice,development
+36,Poedit 2,Translations editor for gettext and XLIFF,sudo snap install poedit,development
+37,bower,A package manager for the web,sudo snap install bower --classic,development
+38,sqlitebrowser,DB browser for Sqlite,sudo snap install sqlitebrowser--edge,development
+39,micro,A modern and intuitive terminal-based text editor,sudo snap install micro --classic,development
+40,ruby,Interpreter of object-oriented scripting language Ruby,sudo snap install ruby --classic,development
+41,dmd,Reference compiler for the D programming language,sudo snap install dmd --classic,development
+42,SQuirreL SQL,A Java SQL client for any JDBC compliant database,sudo snap install squirrelsql,development
+43,dub,Package and build manager for D applications and libraries,sudo snap install dub --classic,development
+44,ubuntu-make,Setup your development environment on ubuntu easily,sudo snap install ubuntu-make --classic,development
+45,.NET Core SDK,"Develop high performance applications in less time, on any platform.",sudo snap install dotnet-sdk --classic,development
+46,Lepton,Free & Open-source Code Snippet Manager,sudo snap install lepton,development
+47,ubuntu-make,Setup your development environment on ubuntu easily,sudo snap install ubuntu-make --classic,development
+48,.NET Core SDK,"Develop high performance applications in less time, on any platform.",sudo snap install dotnet-sdk --classic,development
+49,Lepton,Free & Open-source Code Snippet Manager,sudo snap install lepton,development
+50,dbeaver-ce,Universal Database Tool,sudo snap install dbeaver-ce--edge,development
+51,emacs-tealeg,GNU Emacs 24.5,sudo snap install emacs-tealeg,development
+52,osddm,Oracle SQL Developer Data Modeler,sudo snap install osddm,development
+53,Visual Studio Code - Insiders,Code editing. Redefined.,sudo snap install code-insiders --classic,development
+54,git-repo,A tool built on top of Git to manage many Git repositories.,sudo snap install git-repo,development
+55,hub,hub is a command-line wrapper for git that makes you better at GitHub.,sudo snap install hub --classic,development
+56,GRV,View and manipulate Git repositories from the command line,sudo snap install grv,development
+57,CircleCI Local CLI,Run local CI builds and validate configuration.,sudo snap install circleci,development
+58,Simply Fortran,Simply Fortran 3,sudo snap install simplyfortran,development
+59,dbtarzan,Database browser,sudo snap install dbtarzan,development
+60,tpad,Terminal text editor with GUI-like user interface,sudo snap install tpad,development
+61,Altair GraphQL Client,A beautiful feature-rich GraphQL Client for all platforms.,sudo snap install altair,development
+62,MiniZinc,The bundled MiniZinc language toolchain and IDE,sudo snap install minizinc --classic,development
+63,kompare,Diff/Patch Frontend,sudo snap install kompare--candidate,development
+64,Linode CLI,linode-cli allows you to manage your Linode account from your terminal.,sudo snap install linode-cli,development
+65,Tiled,"Your free, easy to use and flexible tile map editor.",sudo snap install tiled,development
+66,mOAuth,OAuth 2.0 Authorization and Resource Server,sudo snap install moauth,development
+67,terraform,"build, change, and version infrastructure safely and efficiently",sudo snap install terraform,development
+68,valgrind,"A programming tool for memory debugging, leak detection, and profiling",sudo snap install valgrind --classic,development
+69,tika-server,Tika Server for metadata discovery and extraction,sudo snap install tika-server,development
+70,The XSLT C library for GNOME(UNOFFICIAL),XSLT C library developed for the GNOME project,sudo snap install libxslt,development
+71,netvirt-agent2,NetVirt a is network virtualization platform.,sudo snap install netvirt-agent2,development
+72,Apache NetBeans,Apache NetBeans IDE,sudo snap install netbeans --classic,development
+73,shell2http,Executing shell commands via HTTP server,sudo snap install shell2http,development
+74,My Awesome App.,This is the demonstration app. of the Snapcrafters Template Plus,sudo snap install my-awesome-app,development
+75,cpp-dependencies,cpp-dependencies,sudo snap install cpp-dependencies,development
+76,Coulr,Enjoy colors and feel happy!,sudo snap install coulr,development
+77,vapor-master,RosHub Vapor Master,sudo snap install vapor-master,development
+78,lsd,A ls command with a lot of pretty colors.,sudo snap install lsd,development
+79,Numpy viewer,Convenient viewer for numpy files.,sudo snap install numpyviewer,development
+80,asdf,I was bored...,sudo snap install asdf--edge,development
+81,paradrop-agent,Paradrop agent for managing an edge computing node,sudo snap install paradrop-agent,development
+82,crossbar,Crossbar.io - WAMP application router,sudo snap install crossbar,development
+83,Eric python IDE,Eric python IDE,sudo snap install eric-ide --classic,development
+84,calcmy,Single sum,sudo snap install calcmy--edge,development
+85,Umbrello,UML modelling tool and code generator,sudo snap install umbrello,development
+86,crossbar-pypy,Crossbar.io - Polyglot application router.,sudo snap install crossbar-pypy,development
+87,mir-test-tools,Mir test scripts and applications,sudo snap install mir-test-tools,development
+88,knctl,knctl CLI Snap Package,sudo snap install knctl,development
+89,egmde-confined-desktop,A minimal Mir based desktop with some test applications,sudo snap install egmde-confined-desktop--beta,development
+90,OOP Exercises,OOP Exercises in C++,sudo snap install oop-exercises,development
+91,bpftrace,high-level tracing language for Linux eBPF,sudo snap install bpftrace,development
+92,Karuta,Karuta is a scripting language for FPGA design (so called HLS).,sudo snap install karuta,development
+93,bin2src,Convert bytes to source code,sudo snap install bin2src,development
+94,Recollectr,Record and recall without breaking your flow,sudo snap install recollectr,development
+95,GNU Emacs,GNU Emacs is the extensible self-documenting text editor,sudo snap install emacs --classic,development
+96,rubber-band-async,Rubberband wxPython app with wxasync clock,sudo snap install rubber-band-async--edge,development
+97,test-data,Single-line elevator pitch for your amazing snap,sudo snap install pranavwani-data--edge,development
+98,Wing 101 v7,Very Simple Free Python IDE for Beginning Programmers,sudo snap install wing-101-7 --classic,development
+99,Ubuntu Release Info,Ubuntu distribution release information,sudo snap install ubuntu-release-info,development
+100,dfix,Developer tool to auto-upgrade D source code,sudo snap install dfix--edge --classic,development
+101,Rider,A fast & powerful cross-platform .NET IDE,sudo snap install rider --classic,development
+102,dscanner,Developer tool for analyzing D source code,sudo snap install dscanner--edge --classic,development
+103,Ubuntu Bug Triage,Recently updated Launchpad bugs for triage,sudo snap install ubuntu-bug-triage,development
+104,task,Simple task runner / Make alternative written in Go,sudo snap install task --classic,development
+105,bash-brlin,"The Bourne Again SHell(Bash) (UNOFFICIAL, EXPERIMENTAL)",sudo snap install bash-brlin,development
+106,Console Qt Deployer,Deploy your qt projects,sudo snap install cqtdeployer,development
+107,Bash Language Server,Bash Language Server,sudo snap install bash-language-server,development
+108,icecream-sundae,Commandline Monitor for Icecream.,sudo snap install icecream-sundae-snap,development
+109,snapd-hacker-toolbelt,Collection of tools useful for developers hacking on snapd,sudo snap install snapd-hacker-toolbelt,development
+110,XML Toolkit from the GNOME Project,XML C parser and toolkit developed for the Gnome project,sudo snap install libxml2,development
+111,graviton,Graviton,sudo snap install graviton--beta,development
+112,qlik-corectl,A command line interface tool for the Qlik Associative Engine,sudo snap install qlik-corectl,development
+113,egmde,"Try Mir as your desktop, or as a window on your desktop",sudo snap install egmde--beta --classic,development
+114,kernelscan,fast kernel source error message scanner,sudo snap install kernelscan,development
+115,Visual Studio Code,Code editing. Redefined.,sudo snap install code --classic,development
+116,MQTT Explorer,A comprehensive and easy to use MQTT Client,sudo snap install mqtt-explorer,development
+117,k9s,K9s is a CLI to view and manage your Kubernetes clusters.,sudo snap install k9s,development
+118,LXD,System container manager and API,sudo snap install lxd,development
+119,QML Creator,A lightweight QML IDE,sudo snap install qmlcreator,development
+120,Titania X3D Editor,"Edit, view, and navigate in X3D and VRML worlds",sudo snap install titania,development
+121,firestr,The Grass Computing Platform,sudo snap install firestr,development
+122,popeye,A Kubernetes Cluster sanitizer and linter.,sudo snap install popeye,development
+123,Launchpad tooling for Git,Tools to make git work well with Launchpad,sudo snap install gitlptools --classic,development
+124,pngquant,Lossy PNG compressor,sudo snap install pngquant,development
+125,logcat-colorize,logcat-colorize,sudo snap install logcat-colorize,development
+126,Grafana,feature rich metrics dashboard and graph editor,sudo snap install grafana-ijohnson,development
+127,Icecream Sundae,Icecream Sundae,sudo snap install icecream-sundae--edge,development
+128,E-tools,"A toolbox for developers. Color picker, code formatter, and more",sudo snap install e-tools,development
+129,skaffold,Easy and Repeatable Kubernetes Development,sudo snap install skaffold,development
+130,lefthook,For rule your git hooks,sudo snap install lefthook,development
+131,The Things Network Stack for LoRaWAN,Open source LoRaWAN Network Server,sudo snap install ttn-lw-stack,development
+132,Nordic Thingy52 Dev Kit,Compact multi-sensor BLE prototyping platform,sudo snap install thingy52,development
+133,Wing Pro 7,Full-Featured Python IDE for Professional Developers,sudo snap install wing7 --classic,development
+134,getenv,Keep track of your .env files,sudo snap install getenv,development
+135,ccache — Compiler cache (UNOFFICIAL),A fast C/C++ compiler cache,sudo snap install ccache --classic,development
+136,D Completion Daemon,Auto-completion service for the D programming language,sudo snap install dcd--edge --classic,development
+137,ccls C/C++/ObjC Language Server,C/C++/ObjC Language Server,sudo snap install ccls,development
+138,HTTPie,HTTPie in a snap,sudo snap install http,development
+139,xpd,eXtended Parameter Designer,sudo snap install xpd--edge,development
+140,micropython,MicroPython Unix port,sudo snap install micropython,development
+141,zworkbench,ZWorkbench,sudo snap install zworkbench,development
+142,P3X Redis UI,"P3X Redis UI can work with huge key sets, is functional and works on the web and desktop (Electron)",sudo snap install p3x-redis-ui,development
+143,PSPad,PSPad is a text editor for developers.,sudo snap install pspad,development
+144,Dunner,A Docker based tas runner tool,sudo snap install dunner,development
+145,libfolding,A C++ library to compute the folding test of unimodality over streaming data,sudo snap install libfolding,development
+146,dfmt,Code formatter for the D programming language,sudo snap install dfmt--edge --classic,development
+147,Ubuntu ISO Download,Download the latest Ubuntu ISOs,sudo snap install ubuntu-iso-download,development
+148,cevelop,The C++ IDE for professional developers,sudo snap install cevelop--edge --classic,development
+149,Leafpad,GTK+ based simple text editor,sudo snap install leafpad,development
+150,libspot,A C++ library to flag outliers in streaming data,sudo snap install libspot,development
+151,bitwise,Terminal based bitwise calculator in curses,sudo snap install bitwise,development
+152,cdbc,C library providing simple and easy to use interfaces to the ODBC API,sudo snap install cdbc--beta,development
+153,kafkactl,A command-line interface for interaction with Apache Kafka,sudo snap install kafkactl,development
+154,hcloud,A command-line interface for Hetzner Cloud.,sudo snap install hcloud--edge,development
+155,faultstat,tool to measure page faults,sudo snap install faultstat,development
+156,Text Editor,Edit text files,sudo snap install gedit,development
+157,cfn-format,Formats AWS CloudFormation templates.,sudo snap install cfn-format,development
+158,gforth-mtrute,gforth snap,sudo snap install gforth-mtrute--edge,development
+159,Zalupa Bomber,Zalupa Bomber,sudo snap install zalupa-bomber,development
+160,Wing Personal 7,Free Python IDE for Students and Hobbyists,sudo snap install wing-personal7 --classic,development
+161,juju,juju client,sudo snap install juju --classic,development
+162,cURL,Use cURL to download things,sudo snap install curl-ijohnson,development
+163,Scratux,Scratux,sudo snap install scratux,development
+164,pre-commit,A framework for managing and maintaining multi-language pre-commit hooks,sudo snap install pre-commit --classic,development
+165,YAML Language Server,YAML Language Server,sudo snap install yaml-language-server,development
+166,Postbird,PostgreSQL GUI client,sudo snap install postbird,development
+167,cppcheck,A tool for static C/C++ code analysis,sudo snap install cppcheck,development
+168,Alpha App,Alpha App,sudo snap install alphaapp,development
+169,juju-crashdump,Gather logs and other debugging info from a Juju model,sudo snap install juju-crashdump --classic,development
+170,ffmpeg-integration-lgpl,The FFmpeg integration stage snap for consumer snaps(LGPL compatible),sudo snap install ffmpeg-integration-lgpl,development
+171,buzyteam,buzyteam,sudo snap install buzyteam,development
+172,Glade,Create or open user interface designs for GTK+ applications,sudo snap install glade,development
+173,LP Build Snap,Utility to trigger Snap package builds in Launchpad,sudo snap install lp-build-snap,development
+174,InfluxDB,An Open-Source Time Series Database,sudo snap install influxdb-ijohnson,development
+175,adtl,API Development and Testing Tool,sudo snap install adtl,development
+176,tqdm,"A fast, extensible CLI progress bar",sudo snap install tqdm,development
+177,cass,A database GUI,sudo snap install cass,development
+178,gitea,Gitea - A painless self-hosted Git service,sudo snap install gitea--edge,development

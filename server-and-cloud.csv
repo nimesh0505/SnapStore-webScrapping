@@ -1,0 +1,101 @@
+1,Nextcloud,Nextcloud Server - A safe home for all your data,sudo snap install nextcloud,Server and cloud
+2,kata-containers,Lightweight virtual machines that seamlessly plug into the containers ecosystem,sudo snap install kata-containers --classic,Server and cloud
+3,Docker,Docker container runtime,sudo snap install docker,Server and cloud
+4,Google Cloud SDK,Command-line interface for Google Cloud Platform products and services,sudo snap install google-cloud-sdk --classic,Server and cloud
+5,canonical-livepatch,Canonical Livepatch Client,sudo snap install canonical-livepatch,Server and cloud
+6,Rocket.Chat Server,"Group chat server for 100s,  installed in seconds.",sudo snap install rocketchat-server,Server and cloud
+7,LXD,System container manager and API,sudo snap install lxd,Server and cloud
+8,mosquitto,Eclipse Mosquitto MQTT broker,sudo snap install mosquitto,Server and cloud
+9,etcd,Resilient key-value store by CoreOS,sudo snap install etcd,Server and cloud
+10,SABnzbd,SABnzbd,sudo snap install sabnzbd,Server and cloud
+11,aws-cli,Universal Command Line Interface for Amazon Web Services,sudo snap install aws-cli --classic,Server and cloud
+12,doctl,DigitalOcean command line tool,sudo snap install doctl,Server and cloud
+13,conjure-up,Package runtime for conjure-up spells,sudo snap install conjure-up --classic,Server and cloud
+14,minidlna,server software with the aim of being fully compliant with DLNA/UPnP clients.,sudo snap install minidlna-escoand,Server and cloud
+15,heroku,CLI client for Heroku,sudo snap install heroku --classic,Server and cloud
+16,keepalived,High availability VRRP/BFD and load-balancing for Linux,sudo snap install keepalived --classic,Server and cloud
+17,amazon-ssm-agent,Agent to enable remote management of your Amazon EC2 instance configuration,sudo snap install amazon-ssm-agent --classic,Server and cloud
+18,prometheus,The Prometheus monitoring system and time series database,sudo snap install prometheus,Server and cloud
+19,juju,juju client,sudo snap install juju --classic,Server and cloud
+20,slcli,Python based SoftLayer API Tool.,sudo snap install slcli,Server and cloud
+21,helm,The Kubernetes package manager,sudo snap install helm --classic,Server and cloud
+22,kubelet,Kubernetes “node agent” that runs on each node in Kubernetes.,sudo snap install kubelet --classic,Server and cloud
+23,kube-proxy,Kubernetes network proxy that runs on each node.,sudo snap install kube-proxy --classic,Server and cloud
+24,kube-scheduler,Kubernetes master component that assigns each newly created pod to a node.,sudo snap install kube-scheduler,Server and cloud
+25,kube-controller-manager,Kubernetes master component that runs controllers.,sudo snap install kube-controller-manager,Server and cloud
+26,cdk-addons,Addons for the Canonical Distribution of Kubernetes,sudo snap install cdk-addons,Server and cloud
+27,kube-apiserver,Kubernetes master component that exposes the Kubernetes API.,sudo snap install kube-apiserver,Server and cloud
+28,robomongo,MongoDB management tool,sudo snap install robomongo,Server and cloud
+29,minikube,Run Kubernetes locally,sudo snap install minikube,Server and cloud
+30,mysql,Experimental MySQL Community snap,sudo snap install mysql--beta,Server and cloud
+31,SMonitor,Monitoring of server states (and other things),sudo snap install smonitor,Server and cloud
+32,subiquity,Ubuntu installer,sudo snap install subiquity --classic,Server and cloud
+33,postgresql,"PostgreSQL is a powerful, open source object-relational database system.",sudo snap install postgresql,Server and cloud
+34,postgresql93,"PostgreSQL is a powerful, open source object-relational database system.",sudo snap install postgresql93,Server and cloud
+35,postgresql94,"PostgreSQL is a powerful, open source object-relational database system.",sudo snap install postgresql94,Server and cloud
+36,postgresql95,"PostgreSQL is a powerful, open source object-relational database system.",sudo snap install postgresql95,Server and cloud
+37,postgresql96,"PostgreSQL is a powerful, open source object-relational database system.",sudo snap install postgresql96,Server and cloud
+38,postgresql10,"PostgreSQL is a powerful, open source object-relational database system.",sudo snap install postgresql10,Server and cloud
+39,postgresql-pgbouncer,Lightweight connection pooler for PostgreSQL,sudo snap install postgresql-pgbouncer,Server and cloud
+40,postgresql95-pgpool2-35,pgpool-II is a connection pooler for PostgreSQL.,sudo snap install postgresql95-pgpool2-35,Server and cloud
+41,postgresql95-pgpool2-36,pgpool-II is a connection pooler for PostgreSQL.,sudo snap install postgresql95-pgpool2-36,Server and cloud
+42,mOAuth,OAuth 2.0 Authorization and Resource Server,sudo snap install moauth,Server and cloud
+43,tika-server,Tika Server for metadata discovery and extraction,sudo snap install tika-server,Server and cloud
+44,netvirt-agent2,NetVirt a is network virtualization platform.,sudo snap install netvirt-agent2,Server and cloud
+45,cast-web-api,Control your Google Cast devices.,sudo snap install cast-web-api,Server and cloud
+46,shell2http,Executing shell commands via HTTP server,sudo snap install shell2http,Server and cloud
+47,netvirt-agent2,NetVirt a is network virtualization platform.,sudo snap install netvirt-agent2,Server and cloud
+48,cast-web-api,Control your Google Cast devices.,sudo snap install cast-web-api,Server and cloud
+49,shell2http,Executing shell commands via HTTP server,sudo snap install shell2http,Server and cloud
+50,keycloak-standalone-spicule,Keycloak Single Sign On Server,sudo snap install keycloak-standalone-spicule,Server and cloud
+51,goaccess-cprov,Real-time web log analyzer and interactive viewer,sudo snap install goaccess-cprov--edge --classic,Server and cloud
+52,vapor-master,RosHub Vapor Master,sudo snap install vapor-master,Server and cloud
+53,h2static,Tiny static web server with TLS and HTTP/2 support,sudo snap install h2static,Server and cloud
+54,Little Orange Display,Demonstration app using Ubuntu Core and a Raspberry Pi,sudo snap install little-orange-display,Server and cloud
+55,quassel-webserver,A web server/client for Quassel,sudo snap install quassel-webserver--candidate,Server and cloud
+56,tvheadend,"TV streaming server supporting DVB, ATSC, IPTV, and SAT>IP",sudo snap install tvheadend,Server and cloud
+57,crossbar,Crossbar.io - WAMP application router,sudo snap install crossbar,Server and cloud
+58,Factorio Headless Server,Headless server for Factorio running as a system service,sudo snap install factorio-headless,Server and cloud
+59,yacy-search,YaCy peer-to-peer search engine and intranet search appliance,sudo snap install yacy-search,Server and cloud
+60,crossbar-pypy,Crossbar.io - Polyglot application router.,sudo snap install crossbar-pypy,Server and cloud
+61,mtproxy,Simple MT-Proto proxy,sudo snap install mtproxy,Server and cloud
+62,uhttpd,A laughably-small HTTP server,sudo snap install uhttpd,Server and cloud
+63,mc-server-installer,Minecraft Server Downloader and Installer,sudo snap install mc-server-installer,Server and cloud
+64,znc-arubislander,Advanced modular IRC bouncer,sudo snap install znc-arubislander--edge,Server and cloud
+65,kubefed,kubefed controls the Kubernetes cluster federation manager.,sudo snap install kubefed --classic,Server and cloud
+66,dash,POSIX-compliant shell,sudo snap install dash-shell,Server and cloud
+67,Subsonic,"Your complete, personal media streamer.",sudo snap install subsonic-arubislander,Server and cloud
+68,sync-agent,Infobaleen sync agent,sudo snap install sync-agent,Server and cloud
+69,barrier-kvm,Eliminate the barrier between your machines.,sudo snap install barrier-kvm,Server and cloud
+70,fluxctl,fluxctl talks to Weave Flux and helps you deploy your code,sudo snap install fluxctl,Server and cloud
+71,MetaTron,Global Internet Monitoring Agent,sudo snap install metatron,Server and cloud
+72,quorum,A permissioned implementation of Ethereum supporting data privacy,sudo snap install quorum--edge,Server and cloud
+73,telegraf-sajoupa,Telegraf agent,sudo snap install telegraf-sajoupa --classic,Server and cloud
+74,EdgeX InfluxDB Proxy Server,Proxy data from EdgeX device services to InfluxDB using export-distro,sudo snap install edgex-influx-proxy,Server and cloud
+75,gobetween,modern & minimalistic load balancer and reverse-proxy for the Cloud era,sudo snap install gobetween--edge,Server and cloud
+76,Grafana,feature rich metrics dashboard and graph editor,sudo snap install grafana-ijohnson,Server and cloud
+77,kubeadm,Tool for bootstrapping Kubernetes clusters.,sudo snap install kubeadm --classic,Server and cloud
+78,AWS IoT Greengrass,"Bring local compute, messaging, data caching, sync, and ML inference capabilities to edge devices",sudo snap install aws-iot-greengrass,Server and cloud
+79,blobporter-johanburati,Highly concurrent data transfer tool for Azure Blob Storage,sudo snap install blobporter-johanburati,Server and cloud
+80,fbostudios,fbostudios by fpsserver,sudo snap install fbostudios--beta,Server and cloud
+81,cloudmonkey,Apache CloudStack CLI,sudo snap install cloudmonkey,Server and cloud
+82,jujuna,"Jujuna, continuous deployment, upgrade and testing for Juju.",sudo snap install jujuna--beta,Server and cloud
+83,FileZilla (UNOFFICIAL),The free FTP client solution,sudo snap install filezilla--beta,Server and cloud
+84,cfn-skeleton,Generates skeleton AWS CloudFormation templates.,sudo snap install cfn-skeleton,Server and cloud
+85,cfn-format,Formats AWS CloudFormation templates.,sudo snap install cfn-format,Server and cloud
+86,azcopy-johanburati,Command line tool to copy data from/into Azure storage,sudo snap install azcopy-johanburati,Server and cloud
+87,cURL,Use cURL to download things,sudo snap install curl-ijohnson,Server and cloud
+88,tmate-slave,The best tmate-slave snap you can find.,sudo snap install tmate-slave--beta,Server and cloud
+89,redirect-to,"Simple, very fast, in a single binary, with web UI HTTP redirect service",sudo snap install redirect-to,Server and cloud
+90,InfluxDB,An Open-Source Time Series Database,sudo snap install influxdb-ijohnson,Server and cloud
+91,NodeSnapWeb (nsw),Configurable webserver for snap,sudo snap install nsw,Server and cloud
+92,oracle-cloud-agent,Oracle Cloud Agent,sudo snap install oracle-cloud-agent --classic,Server and cloud
+93,qgsrepo,A simple QGIS repository generator written in Rust,sudo snap install qgsrepo,Server and cloud
+94,fcbtest,fcbtest is Rally + Tempest + refstack tests,sudo snap install fcbtest--beta,Server and cloud
+95,unixbench,the revised BYTE UNIX benchmark suite,sudo snap install unixbench,Server and cloud
+96,gaia,Gaia Daemon,sudo snap install gaia--beta,Server and cloud
+97,shadowsocks,"A fast tunnel proxy that helps you bypass ""Firewalls""",sudo snap install shadowsocks,Server and cloud
+98,query-exporter,Export Prometheus metrics from SQL queries,sudo snap install query-exporter,Server and cloud
+99,serve,serve starts a simple temporary static file server in your current directory,sudo snap install serve,Server and cloud
+100,monexec,Light supervisor with optional Consul autoregistration,sudo snap install monexec,Server and cloud
+101,workbase-server,WorkBase,sudo snap install workbase-server,Server and cloud

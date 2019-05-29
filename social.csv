@@ -1,0 +1,58 @@
+1,Slack,Team communication for the 21st century.,sudo snap install slack --classic,social
+2,Skype,One Skype for all your devices. New features. New look. All Skype.,sudo snap install skype --classic,social
+3,Rocket.Chat Desktop,Desktop Client for Rocket.Chat Servers,sudo snap install rocketchat-desktop,social
+4,konversation,IRC client,sudo snap install konversation,social
+5,Instagraph,Unofficial Native Instagram Client,sudo snap install instagraph,social
+6,Flock,Flock: Team Communication App,sudo snap install flock-chat,social
+7,yakyak,YakYak,sudo snap install yakyak,social
+8,Mattermost Desktop,"Open source, private cloud Slack-alternative",sudo snap install mattermost-desktop,social
+9,slack-term,Slack client for your terminal,sudo snap install slack-term,social
+10,Convos,Multiuser chat application that runs in your web browser,sudo snap install convos,social
+11,IRCCloud,IRCCloud Desktop App,sudo snap install irccloud-desktop,social
+12,dino-client,Modern Jabber/XMPP Client using GTK+/Vala,sudo snap install dino-client,social
+13,Wordpress.com Desktop,WordPress.com Desktop client,sudo snap install wordpress-desktop,social
+14,tootstream,A command line interface for interacting with Mastodon instances,sudo snap install tootstream,social
+15,Gitter Desktop,Where developers come to talk,sudo snap install gitter-desktop,social
+16,zulip,Zulip,sudo snap install zulip,social
+17,Discord,All-in-one voice and text chat for gamers,sudo snap install discord,social
+18,akasha,AKASHA,sudo snap install akasha,social
+19,Signal Desktop,"Signal Private Messenger for Windows, Mac, and Linux",sudo snap install signal-desktop,social
+20,whalebird,Whalebird,sudo snap install whalebird,social
+21,irssi,The IRC client of the future,sudo snap install irssi,social
+22,Caprine,Caprine,sudo snap install caprine,social
+23,Wire,Secure and private chat with end-to-end encryption,sudo snap install wire,social
+24,whatsdesk,whatsdesk,sudo snap install whatsdesk,social
+25,electronic-wechat,A better WeChat on macOS and Linux. Built with Electron.,sudo snap install electronic-wechat,social
+26,telegram-cli,Command-line interface for Telegram. Uses the readline interface.,sudo snap install telegram-cli,social
+27,viber-unofficial,Unofficial snap for Viber Desktop,sudo snap install viber-unofficial,social
+28,HexChat,IRC Client,sudo snap install hexchat,social
+29,quassel-webserver,A web server/client for Quassel,sudo snap install quassel-webserver--candidate,social
+30,TamTam,TamTam,sudo snap install tamtam-app,social
+31,FluffyChat,Open. Nonprofit. Cute ♥,sudo snap install fluffychat,social
+32,eloleo,Consommer directement et intelligemment les bons produits à proximité.,sudo snap install eloleo,social
+33,znc-arubislander,Advanced modular IRC bouncer,sudo snap install znc-arubislander--edge,social
+34,Hyperspace,A fluffy client for Mastodon,sudo snap install hyperspace,social
+35,Wickr Pro,Secure Messaging for Teams,sudo snap install wickrpro,social
+36,ZeroNet,"Open, free and uncensorable websites",sudo snap install zeronet,social
+37,Transporter,Hassle-free file sharing,sudo snap install transporter,social
+38,ElectronMail,Unofficial desktop app for ProtonMail and Tutanota end-to-end encrypted email providers,sudo snap install electron-mail,social
+39,Teams for Linux,Unofficial Microsoft Teams client for Linux using Electron.,sudo snap install teams-for-linux,social
+40,firestr,The Grass Computing Platform,sudo snap install firestr,social
+41,Tootle,Tootle,sudo snap install tootle,social
+42,cordless,Third party discord client,sudo snap install cordless,social
+43,viber-mtd,Viber Desktop support unbuntu,sudo snap install viber-mtd--edge,social
+44,Wickr Me - Private Messenger,E2E Encrypted Anonymous Messaging,sudo snap install wickrme,social
+45,Mixin Messenger,Mixin messenger,sudo snap install mixin-desktop,social
+46,Prospect Mail,Unofficial Outlook client,sudo snap install prospect-mail,social
+47,Wickr Me - Private Messenger,E2E Encrypted Anonymous Messaging,sudo snap install wickrme,social
+48,Mixin Messenger,Mixin messenger,sudo snap install mixin-desktop,social
+49,Prospect Mail,Unofficial Outlook client,sudo snap install prospect-mail,social
+50,TheDesk,TheDesk,sudo snap install thedesk,social
+51,Facebook messenger port,Simple and smart Facebook Messenger Desktop App. Hope that you'll like it.,sudo snap install messengerport,social
+52,Sengi,Sengi,sudo snap install sengi,social
+53,vizd,Full node for VIZ network,sudo snap install vizd,social
+54,toto,Cool tool for happy people,sudo snap install toto,social
+55,ICQ,ICQ for Linux,sudo snap install icq-im--beta,social
+56,agent,Mail.Ru Agent for Linux,sudo snap install agent--edge,social
+57,communecter,Communecter : Connecter à sa commune,sudo snap install communecter,social
+58,Twist · Team Communication,A Team Communication App for Remote Work,sudo snap install twist,social
