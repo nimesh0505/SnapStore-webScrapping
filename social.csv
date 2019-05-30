@@ -1,58 +1,59 @@
-1,Slack,Team communication for the 21st century.,sudo snap install slack --classic,social
-2,Skype,One Skype for all your devices. New features. New look. All Skype.,sudo snap install skype --classic,social
-3,Rocket.Chat Desktop,Desktop Client for Rocket.Chat Servers,sudo snap install rocketchat-desktop,social
-4,konversation,IRC client,sudo snap install konversation,social
-5,Instagraph,Unofficial Native Instagram Client,sudo snap install instagraph,social
-6,Flock,Flock: Team Communication App,sudo snap install flock-chat,social
-7,yakyak,YakYak,sudo snap install yakyak,social
-8,Mattermost Desktop,"Open source, private cloud Slack-alternative",sudo snap install mattermost-desktop,social
-9,slack-term,Slack client for your terminal,sudo snap install slack-term,social
-10,Convos,Multiuser chat application that runs in your web browser,sudo snap install convos,social
-11,IRCCloud,IRCCloud Desktop App,sudo snap install irccloud-desktop,social
-12,dino-client,Modern Jabber/XMPP Client using GTK+/Vala,sudo snap install dino-client,social
-13,Wordpress.com Desktop,WordPress.com Desktop client,sudo snap install wordpress-desktop,social
-14,tootstream,A command line interface for interacting with Mastodon instances,sudo snap install tootstream,social
-15,Gitter Desktop,Where developers come to talk,sudo snap install gitter-desktop,social
-16,zulip,Zulip,sudo snap install zulip,social
-17,Discord,All-in-one voice and text chat for gamers,sudo snap install discord,social
-18,akasha,AKASHA,sudo snap install akasha,social
-19,Signal Desktop,"Signal Private Messenger for Windows, Mac, and Linux",sudo snap install signal-desktop,social
-20,whalebird,Whalebird,sudo snap install whalebird,social
-21,irssi,The IRC client of the future,sudo snap install irssi,social
-22,Caprine,Caprine,sudo snap install caprine,social
-23,Wire,Secure and private chat with end-to-end encryption,sudo snap install wire,social
-24,whatsdesk,whatsdesk,sudo snap install whatsdesk,social
-25,electronic-wechat,A better WeChat on macOS and Linux. Built with Electron.,sudo snap install electronic-wechat,social
-26,telegram-cli,Command-line interface for Telegram. Uses the readline interface.,sudo snap install telegram-cli,social
-27,viber-unofficial,Unofficial snap for Viber Desktop,sudo snap install viber-unofficial,social
-28,HexChat,IRC Client,sudo snap install hexchat,social
-29,quassel-webserver,A web server/client for Quassel,sudo snap install quassel-webserver--candidate,social
-30,TamTam,TamTam,sudo snap install tamtam-app,social
-31,FluffyChat,Open. Nonprofit. Cute ♥,sudo snap install fluffychat,social
-32,eloleo,Consommer directement et intelligemment les bons produits à proximité.,sudo snap install eloleo,social
-33,znc-arubislander,Advanced modular IRC bouncer,sudo snap install znc-arubislander--edge,social
-34,Hyperspace,A fluffy client for Mastodon,sudo snap install hyperspace,social
-35,Wickr Pro,Secure Messaging for Teams,sudo snap install wickrpro,social
-36,ZeroNet,"Open, free and uncensorable websites",sudo snap install zeronet,social
-37,Transporter,Hassle-free file sharing,sudo snap install transporter,social
-38,ElectronMail,Unofficial desktop app for ProtonMail and Tutanota end-to-end encrypted email providers,sudo snap install electron-mail,social
-39,Teams for Linux,Unofficial Microsoft Teams client for Linux using Electron.,sudo snap install teams-for-linux,social
-40,firestr,The Grass Computing Platform,sudo snap install firestr,social
-41,Tootle,Tootle,sudo snap install tootle,social
-42,cordless,Third party discord client,sudo snap install cordless,social
-43,viber-mtd,Viber Desktop support unbuntu,sudo snap install viber-mtd--edge,social
-44,Wickr Me - Private Messenger,E2E Encrypted Anonymous Messaging,sudo snap install wickrme,social
-45,Mixin Messenger,Mixin messenger,sudo snap install mixin-desktop,social
-46,Prospect Mail,Unofficial Outlook client,sudo snap install prospect-mail,social
-47,Wickr Me - Private Messenger,E2E Encrypted Anonymous Messaging,sudo snap install wickrme,social
-48,Mixin Messenger,Mixin messenger,sudo snap install mixin-desktop,social
-49,Prospect Mail,Unofficial Outlook client,sudo snap install prospect-mail,social
-50,TheDesk,TheDesk,sudo snap install thedesk,social
-51,Facebook messenger port,Simple and smart Facebook Messenger Desktop App. Hope that you'll like it.,sudo snap install messengerport,social
-52,Sengi,Sengi,sudo snap install sengi,social
-53,vizd,Full node for VIZ network,sudo snap install vizd,social
-54,toto,Cool tool for happy people,sudo snap install toto,social
-55,ICQ,ICQ for Linux,sudo snap install icq-im--beta,social
-56,agent,Mail.Ru Agent for Linux,sudo snap install agent--edge,social
-57,communecter,Communecter : Connecter à sa commune,sudo snap install communecter,social
-58,Twist · Team Communication,A Team Communication App for Remote Work,sudo snap install twist,social
+1,Slack,Team communication for the 21st century.,sudo snap install slack --classic,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/Snapcraft_256x256.png,social
+2,Skype,One Skype for all your devices. New features. New look. All Skype.,sudo snap install skype --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/Skype.png,social
+3,Rocket.Chat Desktop,Desktop Client for Rocket.Chat Servers,sudo snap install rocketchat-desktop,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/icon-256_sDZsivC.png,social
+4,konversation,IRC client,sudo snap install konversation,https://dashboard.snapcraft.io/site_media/appmedia/2017/01/icon_22.png,social
+5,Instagraph,Unofficial Native Instagram Client,sudo snap install instagraph,https://dashboard.snapcraft.io/site_media/appmedia/2016/11/Instagraph.png,social
+6,Flock,Flock: Team Communication App,sudo snap install flock-chat,https://dashboard.snapcraft.io/site_media/appmedia/2018/05/256x256_bLkzrbB.png,social
+7,yakyak,YakYak,sudo snap install yakyak,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/yakyak.png,social
+8,Mattermost Desktop,"Open source, private cloud Slack-alternative",sudo snap install mattermost-desktop,https://dashboard.snapcraft.io/site_media/appmedia/2017/04/mattermost-desktop.png,social
+9,slack-term,Slack client for your terminal,sudo snap install slack-term,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/slack-term.svg.png,social
+10,Convos,Multiuser chat application that runs in your web browser,sudo snap install convos,https://dashboard.snapcraft.io/site_media/appmedia/2017/03/convos-icon.png,social
+11,IRCCloud,IRCCloud Desktop App,sudo snap install irccloud-desktop,https://dashboard.snapcraft.io/site_media/appmedia/2017/08/icon_dLGuhFb.png,social
+12,dino-client,Modern Jabber/XMPP Client using GTK+/Vala,sudo snap install dino-client,https://dashboard.snapcraft.io/site_media/appmedia/2017/09/icon_ysqaiTs.png,social
+13,Wordpress.com Desktop,WordPress.com Desktop client,sudo snap install wordpress-desktop,https://dashboard.snapcraft.io/site_media/appmedia/2017/04/wpcom.png,social
+14,tootstream,A command line interface for interacting with Mastodon instances,sudo snap install tootstream,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,social
+15,Gitter Desktop,Where developers come to talk,sudo snap install gitter-desktop,https://dashboard.snapcraft.io/site_media/appmedia/2017/04/logo-256.png,social
+16,zulip,Zulip,sudo snap install zulip,https://dashboard.snapcraft.io/site_media/appmedia/2018/08/icon.ico.png,social
+17,Discord,All-in-one voice and text chat for gamers,sudo snap install discord,https://dashboard.snapcraft.io/site_media/appmedia/2017/04/discord.png,social
+18,akasha,AKASHA,sudo snap install akasha,https://dashboard.snapcraft.io/site_media/appmedia/2018/01/icon_O7kQUXg.png,social
+19,Signal Desktop,"Signal Private Messenger for Windows, Mac, and Linux",sudo snap install signal-desktop,https://dashboard.snapcraft.io/site_media/appmedia/2018/04/icon_256.png,social
+20,whalebird,Whalebird,sudo snap install whalebird,https://dashboard.snapcraft.io/site_media/appmedia/2018/05/icon_jxGcedk.png,social
+21,irssi,The IRC client of the future,sudo snap install irssi,https://dashboard.snapcraft.io/site_media/appmedia/2018/07/256irssi.png,social
+22,Caprine,Caprine,sudo snap install caprine,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/Icon.png,social
+23,Wire,Secure and private chat with end-to-end encryption,sudo snap install wire,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/wire-desktop.png,social
+24,whatsdesk,whatsdesk,sudo snap install whatsdesk,https://dashboard.snapcraft.io/site_media/appmedia/2018/06/icon_xBt3roT.png,social
+25,electronic-wechat,A better WeChat on macOS and Linux. Built with Electron.,sudo snap install electronic-wechat,https://dashboard.snapcraft.io/site_media/appmedia/2016/10/wechat256.png,social
+26,telegram-cli,Command-line interface for Telegram. Uses the readline interface.,sudo snap install telegram-cli,https://dashboard.snapcraft.io/site_media/appmedia/2017/04/telegram-cli-icon1.png,social
+27,viber-unofficial,Unofficial snap for Viber Desktop,sudo snap install viber-unofficial,https://dashboard.snapcraft.io/site_media/appmedia/2018/11/purple_Purple_icon.svg.png,social
+28,HexChat,IRC Client,sudo snap install hexchat,https://dashboard.snapcraft.io/site_media/appmedia/2016/11/hexchat.svg.png,social
+29,quassel-webserver,A web server/client for Quassel,sudo snap install quassel-webserver--candidate,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,social
+30,TamTam,TamTam,sudo snap install tamtam-app,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/icon_AzHjhZk.png,social
+31,FluffyChat,Open. Nonprofit. Cute ♥,sudo snap install fluffychat,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/logo.svg_lD9eOJR.png,social
+32,eloleo,Consommer directement et intelligemment les bons produits à proximité.,sudo snap install eloleo,https://dashboard.snapcraft.io/site_media/appmedia/2018/05/icon_256_tt6vkPD.png,social
+33,znc-arubislander,Advanced modular IRC bouncer,sudo snap install znc-arubislander--edge,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,social
+34,Hyperspace,A fluffy client for Mastodon,sudo snap install hyperspace,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/Icon-512_WD4hZ8b.png,social
+35,Wickr Pro,Secure Messaging for Teams,sudo snap install wickrpro,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/WickrPro.jpg.png,social
+36,college-mastodon,college-mastodon,sudo snap install college-mastodon,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/Untitled-105x.png,social
+37,ZeroNet,"Open, free and uncensorable websites",sudo snap install zeronet,https://dashboard.snapcraft.io/site_media/appmedia/2016/11/ZeroNet_Logo_256.png,social
+38,Transporter,Hassle-free file sharing,sudo snap install transporter,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/com.github.bleakgrey.transporter.svg.png,social
+39,ElectronMail,Unofficial desktop app for ProtonMail and Tutanota end-to-end encrypted email providers,sudo snap install electron-mail,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/icon_736yZqT.png,social
+40,Teams for Linux,Unofficial Microsoft Teams client for Linux using Electron.,sudo snap install teams-for-linux,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/512x512.png,social
+41,firestr,The Grass Computing Platform,sudo snap install firestr,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/firestr.svg.png,social
+42,Tootle,Tootle,sudo snap install tootle,https://dashboard.snapcraft.io/site_media/appmedia/2018/08/tootle.png,social
+43,cordless,Third party discord client,sudo snap install cordless,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/cordless.png,social
+44,viber-mtd,Viber Desktop support unbuntu,sudo snap install viber-mtd--edge,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/viber-icon-logo-4E5ED1327A-seeklogo.com.png,social
+45,Wickr Me - Private Messenger,E2E Encrypted Anonymous Messaging,sudo snap install wickrme,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/WickrMe.jpg.png,social
+46,Mixin Messenger,Mixin messenger,sudo snap install mixin-desktop,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/512x512_rQxDga5.png,social
+47,viber-mtd,Viber Desktop support unbuntu,sudo snap install viber-mtd--edge,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/viber-icon-logo-4E5ED1327A-seeklogo.com.png,social
+48,Wickr Me - Private Messenger,E2E Encrypted Anonymous Messaging,sudo snap install wickrme,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/WickrMe.jpg.png,social
+49,Mixin Messenger,Mixin messenger,sudo snap install mixin-desktop,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/512x512_rQxDga5.png,social
+50,Prospect Mail,Unofficial Outlook client,sudo snap install prospect-mail,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/512x512_QsYGxeC.png,social
+51,TheDesk,TheDesk,sudo snap install thedesk,https://dashboard.snapcraft.io/site_media/appmedia/2018/07/s_desk.png,social
+52,Facebook messenger port,Simple and smart Facebook Messenger Desktop App. Hope that you'll like it.,sudo snap install messengerport,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/messenger.png,social
+53,Sengi,Sengi,sudo snap install sengi,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/512x512.png,social
+54,vizd,Full node for VIZ network,sudo snap install vizd,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/g4876.png,social
+55,toto,Cool tool for happy people,sudo snap install toto,https://dashboard.snapcraft.io/site_media/appmedia/2018/10/icon_red.png,social
+56,ICQ,ICQ for Linux,sudo snap install icq-im--beta,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/icons-bundle-icq_copy_4.png,social
+57,agent,Mail.Ru Agent for Linux,sudo snap install agent--edge,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/agent.png,social
+58,communecter,Communecter : Connecter à sa commune,sudo snap install communecter,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/Communecter-24x24.svg.png,social
+59,Twist · Team Communication,A Team Communication App for Remote Work,sudo snap install twist,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/Twist_pt7GNCq.png,social

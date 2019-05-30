@@ -8,6 +8,7 @@ appname=[]
 appdesc=[]
 applink=[]
 appcategory='games';
+appimagelink=[]
 page=1
 while(page<5):
 	url = "https://snapcraft.io/search?category=games&page="+str(page)
@@ -27,13 +28,15 @@ while(page<5):
 				a = k.find('input')['value']
 				myString = re.sub(r"[\n\t]*", "",a)
 				applink.append(myString)
-
+			for l in soup.findAll('img',attrs={'class':'p-snap-heading__icon'}):
+				appimagelink.append(l['src'])
+					
 	page=page+1			
 
 with open('games.csv', 'a') as csvFile:
     writer = csv.writer(csvFile)
     for i in range(len(appname)):
-   		writer.writerow([i+1,appname[i],appdesc[i],applink[i],appcategory])
+   		writer.writerow([i+1,appname[i],appdesc[i],applink[i],appimagelink[i],appcategory])
 
 		
 

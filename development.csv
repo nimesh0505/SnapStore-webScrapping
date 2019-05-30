@@ -1,179 +1,178 @@
-id,appname,appdesc,applink,category
-1,PyCharm CE,Python IDE for Professional Developers,sudo snap install pycharm-community --classic,development
-2,Postman,API Development Environment,sudo snap install postman,development
-3,Atom,A hackable text editor for the 21st Century.,sudo snap install atom --classic,development
-4,Notepad-Plus-Plus,Notepad-Plus-Plus is a free source code editor.,sudo snap install notepad-plus-plus,development
-5,Android Studio,The IDE for Android,sudo snap install android-studio --classic,development
-6,PhpStorm,PHP IDE for Professional Development,sudo snap install phpstorm --classic,development
-7,Eclipse,Extensible Tool Platform and Java IDE,sudo snap install eclipse --classic,development
-8,PyCharm Pro,Python IDE for Professional Developers,sudo snap install pycharm-professional --classic,development
-9,GitKraken,"For repo management, in-app code editing & issue tracking.",sudo snap install gitkraken,development
-10,IDEA Community,Capable & Ergonomic Java IDE,sudo snap install intellij-idea-community --classic,development
-11,notepadqq,A Notepad++-like editor for Linux.,sudo snap install notepadqq,development
-12,kubectl,Command line client for controlling a Kubernetes cluster.,sudo snap install kubectl --classic,development
-13,powershell,PowerShell for every system!,sudo snap install powershell --classic,development
-14,IDEA Ultimate,"Capable & Ergonomic Java IDE for Enterprise, Web & Mobile Development",sudo snap install intellij-idea-ultimate --classic,development
-15,Cacher,Cacher is a code snippet library for professional developers. Use it to build a technical knowledge base for you and your team.,sudo snap install cacher,development
-16,WebStorm,Powerful IDE for modern JavaScript development,sudo snap install webstorm --classic,development
-17,Brackets,"Brackets is a modern code editor for HTML, CSS and JavaScript.",sudo snap install brackets --classic,development
-18,Insomnia,Insomnia REST Client,sudo snap install insomnia,development
-19,fx,Command-line tool and terminal JSON viewer,sudo snap install fx,development
-20,git-standup,Recall what you did on the last working day.,sudo snap install git-standup--edge,development
-21,RedisDesktopManager,Redis Desktop Manager,sudo snap install redis-desktop-manager,development
-22,Go,"Go programming language compiler, linker, stdlib",sudo snap install go --classic,development
-23,DataGrip,IntelliJ-based IDE for databases and SQL,sudo snap install datagrip --classic,development
-24,CLion,A cross-platform IDE for C and C++,sudo snap install clion --classic,development
-25,PyCharm EDU,Easy and Professional Tool to Learn & Teach Programming with Python,sudo snap install pycharm-educational --classic,development
-26,robo3t-snap,Robo 3T,sudo snap install robo3t-snap,development
-27,node,Node.js,sudo snap install node --channel=10/stable --classic,development
-28,GoLand,A Clever IDE to Go,sudo snap install goland --classic,development
-29,RubyMine,The Most Intelligent Ruby and Rails IDE,sudo snap install rubymine --classic,development
-30,snapcraft,easily create snaps,sudo snap install snapcraft --classic,development
-31,sqlitebrowser-casept,Unofficial snap of the lightweight SQLite DB editing tool.,sudo snap install sqlitebrowser-casept,development
-32,git-cola,The highly caffeinated Git GUI,sudo snap install git-cola,development
-33,Kotlin,Command line Kotlin compiler,sudo snap install kotlin --classic,development
-34,kotlin-native,Kotlin/Native compiler,sudo snap install kotlin-native --classic,development
-35,qucs-spice,Quite Universal Circuit Simulator,sudo snap install qucs-spice,development
-36,Poedit 2,Translations editor for gettext and XLIFF,sudo snap install poedit,development
-37,bower,A package manager for the web,sudo snap install bower --classic,development
-38,sqlitebrowser,DB browser for Sqlite,sudo snap install sqlitebrowser--edge,development
-39,micro,A modern and intuitive terminal-based text editor,sudo snap install micro --classic,development
-40,ruby,Interpreter of object-oriented scripting language Ruby,sudo snap install ruby --classic,development
-41,dmd,Reference compiler for the D programming language,sudo snap install dmd --classic,development
-42,SQuirreL SQL,A Java SQL client for any JDBC compliant database,sudo snap install squirrelsql,development
-43,dub,Package and build manager for D applications and libraries,sudo snap install dub --classic,development
-44,ubuntu-make,Setup your development environment on ubuntu easily,sudo snap install ubuntu-make --classic,development
-45,.NET Core SDK,"Develop high performance applications in less time, on any platform.",sudo snap install dotnet-sdk --classic,development
-46,Lepton,Free & Open-source Code Snippet Manager,sudo snap install lepton,development
-47,ubuntu-make,Setup your development environment on ubuntu easily,sudo snap install ubuntu-make --classic,development
-48,.NET Core SDK,"Develop high performance applications in less time, on any platform.",sudo snap install dotnet-sdk --classic,development
-49,Lepton,Free & Open-source Code Snippet Manager,sudo snap install lepton,development
-50,dbeaver-ce,Universal Database Tool,sudo snap install dbeaver-ce--edge,development
-51,emacs-tealeg,GNU Emacs 24.5,sudo snap install emacs-tealeg,development
-52,osddm,Oracle SQL Developer Data Modeler,sudo snap install osddm,development
-53,Visual Studio Code - Insiders,Code editing. Redefined.,sudo snap install code-insiders --classic,development
-54,git-repo,A tool built on top of Git to manage many Git repositories.,sudo snap install git-repo,development
-55,hub,hub is a command-line wrapper for git that makes you better at GitHub.,sudo snap install hub --classic,development
-56,GRV,View and manipulate Git repositories from the command line,sudo snap install grv,development
-57,CircleCI Local CLI,Run local CI builds and validate configuration.,sudo snap install circleci,development
-58,Simply Fortran,Simply Fortran 3,sudo snap install simplyfortran,development
-59,dbtarzan,Database browser,sudo snap install dbtarzan,development
-60,tpad,Terminal text editor with GUI-like user interface,sudo snap install tpad,development
-61,Altair GraphQL Client,A beautiful feature-rich GraphQL Client for all platforms.,sudo snap install altair,development
-62,MiniZinc,The bundled MiniZinc language toolchain and IDE,sudo snap install minizinc --classic,development
-63,kompare,Diff/Patch Frontend,sudo snap install kompare--candidate,development
-64,Linode CLI,linode-cli allows you to manage your Linode account from your terminal.,sudo snap install linode-cli,development
-65,Tiled,"Your free, easy to use and flexible tile map editor.",sudo snap install tiled,development
-66,mOAuth,OAuth 2.0 Authorization and Resource Server,sudo snap install moauth,development
-67,terraform,"build, change, and version infrastructure safely and efficiently",sudo snap install terraform,development
-68,valgrind,"A programming tool for memory debugging, leak detection, and profiling",sudo snap install valgrind --classic,development
-69,tika-server,Tika Server for metadata discovery and extraction,sudo snap install tika-server,development
-70,The XSLT C library for GNOME(UNOFFICIAL),XSLT C library developed for the GNOME project,sudo snap install libxslt,development
-71,netvirt-agent2,NetVirt a is network virtualization platform.,sudo snap install netvirt-agent2,development
-72,Apache NetBeans,Apache NetBeans IDE,sudo snap install netbeans --classic,development
-73,shell2http,Executing shell commands via HTTP server,sudo snap install shell2http,development
-74,My Awesome App.,This is the demonstration app. of the Snapcrafters Template Plus,sudo snap install my-awesome-app,development
-75,cpp-dependencies,cpp-dependencies,sudo snap install cpp-dependencies,development
-76,Coulr,Enjoy colors and feel happy!,sudo snap install coulr,development
-77,vapor-master,RosHub Vapor Master,sudo snap install vapor-master,development
-78,lsd,A ls command with a lot of pretty colors.,sudo snap install lsd,development
-79,Numpy viewer,Convenient viewer for numpy files.,sudo snap install numpyviewer,development
-80,asdf,I was bored...,sudo snap install asdf--edge,development
-81,paradrop-agent,Paradrop agent for managing an edge computing node,sudo snap install paradrop-agent,development
-82,crossbar,Crossbar.io - WAMP application router,sudo snap install crossbar,development
-83,Eric python IDE,Eric python IDE,sudo snap install eric-ide --classic,development
-84,calcmy,Single sum,sudo snap install calcmy--edge,development
-85,Umbrello,UML modelling tool and code generator,sudo snap install umbrello,development
-86,crossbar-pypy,Crossbar.io - Polyglot application router.,sudo snap install crossbar-pypy,development
-87,mir-test-tools,Mir test scripts and applications,sudo snap install mir-test-tools,development
-88,knctl,knctl CLI Snap Package,sudo snap install knctl,development
-89,egmde-confined-desktop,A minimal Mir based desktop with some test applications,sudo snap install egmde-confined-desktop--beta,development
-90,OOP Exercises,OOP Exercises in C++,sudo snap install oop-exercises,development
-91,bpftrace,high-level tracing language for Linux eBPF,sudo snap install bpftrace,development
-92,Karuta,Karuta is a scripting language for FPGA design (so called HLS).,sudo snap install karuta,development
-93,bin2src,Convert bytes to source code,sudo snap install bin2src,development
-94,Recollectr,Record and recall without breaking your flow,sudo snap install recollectr,development
-95,GNU Emacs,GNU Emacs is the extensible self-documenting text editor,sudo snap install emacs --classic,development
-96,rubber-band-async,Rubberband wxPython app with wxasync clock,sudo snap install rubber-band-async--edge,development
-97,test-data,Single-line elevator pitch for your amazing snap,sudo snap install pranavwani-data--edge,development
-98,Wing 101 v7,Very Simple Free Python IDE for Beginning Programmers,sudo snap install wing-101-7 --classic,development
-99,Ubuntu Release Info,Ubuntu distribution release information,sudo snap install ubuntu-release-info,development
-100,dfix,Developer tool to auto-upgrade D source code,sudo snap install dfix--edge --classic,development
-101,Rider,A fast & powerful cross-platform .NET IDE,sudo snap install rider --classic,development
-102,dscanner,Developer tool for analyzing D source code,sudo snap install dscanner--edge --classic,development
-103,Ubuntu Bug Triage,Recently updated Launchpad bugs for triage,sudo snap install ubuntu-bug-triage,development
-104,task,Simple task runner / Make alternative written in Go,sudo snap install task --classic,development
-105,bash-brlin,"The Bourne Again SHell(Bash) (UNOFFICIAL, EXPERIMENTAL)",sudo snap install bash-brlin,development
-106,Console Qt Deployer,Deploy your qt projects,sudo snap install cqtdeployer,development
-107,Bash Language Server,Bash Language Server,sudo snap install bash-language-server,development
-108,icecream-sundae,Commandline Monitor for Icecream.,sudo snap install icecream-sundae-snap,development
-109,snapd-hacker-toolbelt,Collection of tools useful for developers hacking on snapd,sudo snap install snapd-hacker-toolbelt,development
-110,XML Toolkit from the GNOME Project,XML C parser and toolkit developed for the Gnome project,sudo snap install libxml2,development
-111,graviton,Graviton,sudo snap install graviton--beta,development
-112,qlik-corectl,A command line interface tool for the Qlik Associative Engine,sudo snap install qlik-corectl,development
-113,egmde,"Try Mir as your desktop, or as a window on your desktop",sudo snap install egmde--beta --classic,development
-114,kernelscan,fast kernel source error message scanner,sudo snap install kernelscan,development
-115,Visual Studio Code,Code editing. Redefined.,sudo snap install code --classic,development
-116,MQTT Explorer,A comprehensive and easy to use MQTT Client,sudo snap install mqtt-explorer,development
-117,k9s,K9s is a CLI to view and manage your Kubernetes clusters.,sudo snap install k9s,development
-118,LXD,System container manager and API,sudo snap install lxd,development
-119,QML Creator,A lightweight QML IDE,sudo snap install qmlcreator,development
-120,Titania X3D Editor,"Edit, view, and navigate in X3D and VRML worlds",sudo snap install titania,development
-121,firestr,The Grass Computing Platform,sudo snap install firestr,development
-122,popeye,A Kubernetes Cluster sanitizer and linter.,sudo snap install popeye,development
-123,Launchpad tooling for Git,Tools to make git work well with Launchpad,sudo snap install gitlptools --classic,development
-124,pngquant,Lossy PNG compressor,sudo snap install pngquant,development
-125,logcat-colorize,logcat-colorize,sudo snap install logcat-colorize,development
-126,Grafana,feature rich metrics dashboard and graph editor,sudo snap install grafana-ijohnson,development
-127,Icecream Sundae,Icecream Sundae,sudo snap install icecream-sundae--edge,development
-128,E-tools,"A toolbox for developers. Color picker, code formatter, and more",sudo snap install e-tools,development
-129,skaffold,Easy and Repeatable Kubernetes Development,sudo snap install skaffold,development
-130,lefthook,For rule your git hooks,sudo snap install lefthook,development
-131,The Things Network Stack for LoRaWAN,Open source LoRaWAN Network Server,sudo snap install ttn-lw-stack,development
-132,Nordic Thingy52 Dev Kit,Compact multi-sensor BLE prototyping platform,sudo snap install thingy52,development
-133,Wing Pro 7,Full-Featured Python IDE for Professional Developers,sudo snap install wing7 --classic,development
-134,getenv,Keep track of your .env files,sudo snap install getenv,development
-135,ccache — Compiler cache (UNOFFICIAL),A fast C/C++ compiler cache,sudo snap install ccache --classic,development
-136,D Completion Daemon,Auto-completion service for the D programming language,sudo snap install dcd--edge --classic,development
-137,ccls C/C++/ObjC Language Server,C/C++/ObjC Language Server,sudo snap install ccls,development
-138,HTTPie,HTTPie in a snap,sudo snap install http,development
-139,xpd,eXtended Parameter Designer,sudo snap install xpd--edge,development
-140,micropython,MicroPython Unix port,sudo snap install micropython,development
-141,zworkbench,ZWorkbench,sudo snap install zworkbench,development
-142,P3X Redis UI,"P3X Redis UI can work with huge key sets, is functional and works on the web and desktop (Electron)",sudo snap install p3x-redis-ui,development
-143,PSPad,PSPad is a text editor for developers.,sudo snap install pspad,development
-144,Dunner,A Docker based tas runner tool,sudo snap install dunner,development
-145,libfolding,A C++ library to compute the folding test of unimodality over streaming data,sudo snap install libfolding,development
-146,dfmt,Code formatter for the D programming language,sudo snap install dfmt--edge --classic,development
-147,Ubuntu ISO Download,Download the latest Ubuntu ISOs,sudo snap install ubuntu-iso-download,development
-148,cevelop,The C++ IDE for professional developers,sudo snap install cevelop--edge --classic,development
-149,Leafpad,GTK+ based simple text editor,sudo snap install leafpad,development
-150,libspot,A C++ library to flag outliers in streaming data,sudo snap install libspot,development
-151,bitwise,Terminal based bitwise calculator in curses,sudo snap install bitwise,development
-152,cdbc,C library providing simple and easy to use interfaces to the ODBC API,sudo snap install cdbc--beta,development
-153,kafkactl,A command-line interface for interaction with Apache Kafka,sudo snap install kafkactl,development
-154,hcloud,A command-line interface for Hetzner Cloud.,sudo snap install hcloud--edge,development
-155,faultstat,tool to measure page faults,sudo snap install faultstat,development
-156,Text Editor,Edit text files,sudo snap install gedit,development
-157,cfn-format,Formats AWS CloudFormation templates.,sudo snap install cfn-format,development
-158,gforth-mtrute,gforth snap,sudo snap install gforth-mtrute--edge,development
-159,Zalupa Bomber,Zalupa Bomber,sudo snap install zalupa-bomber,development
-160,Wing Personal 7,Free Python IDE for Students and Hobbyists,sudo snap install wing-personal7 --classic,development
-161,juju,juju client,sudo snap install juju --classic,development
-162,cURL,Use cURL to download things,sudo snap install curl-ijohnson,development
-163,Scratux,Scratux,sudo snap install scratux,development
-164,pre-commit,A framework for managing and maintaining multi-language pre-commit hooks,sudo snap install pre-commit --classic,development
-165,YAML Language Server,YAML Language Server,sudo snap install yaml-language-server,development
-166,Postbird,PostgreSQL GUI client,sudo snap install postbird,development
-167,cppcheck,A tool for static C/C++ code analysis,sudo snap install cppcheck,development
-168,Alpha App,Alpha App,sudo snap install alphaapp,development
-169,juju-crashdump,Gather logs and other debugging info from a Juju model,sudo snap install juju-crashdump --classic,development
-170,ffmpeg-integration-lgpl,The FFmpeg integration stage snap for consumer snaps(LGPL compatible),sudo snap install ffmpeg-integration-lgpl,development
-171,buzyteam,buzyteam,sudo snap install buzyteam,development
-172,Glade,Create or open user interface designs for GTK+ applications,sudo snap install glade,development
-173,LP Build Snap,Utility to trigger Snap package builds in Launchpad,sudo snap install lp-build-snap,development
-174,InfluxDB,An Open-Source Time Series Database,sudo snap install influxdb-ijohnson,development
-175,adtl,API Development and Testing Tool,sudo snap install adtl,development
-176,tqdm,"A fast, extensible CLI progress bar",sudo snap install tqdm,development
-177,cass,A database GUI,sudo snap install cass,development
-178,gitea,Gitea - A painless self-hosted Git service,sudo snap install gitea--edge,development
+1,PyCharm CE,Python IDE for Professional Developers,sudo snap install pycharm-community --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/11/PyCharmCore256.png,development
+2,Postman,API Development Environment,sudo snap install postman,https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png,development
+3,Atom,A hackable text editor for the 21st Century.,sudo snap install atom --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/04/atom-256px.png,development
+4,Notepad-Plus-Plus,Notepad-Plus-Plus is a free source code editor.,sudo snap install notepad-plus-plus,https://dashboard.snapcraft.io/site_media/appmedia/2018/02/notepad-plus-plus.png,development
+5,Android Studio,The IDE for Android,sudo snap install android-studio --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/03/rsz_android_studio_icon.png,development
+6,PhpStorm,PHP IDE for Professional Development,sudo snap install phpstorm --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png,development
+7,Eclipse,Extensible Tool Platform and Java IDE,sudo snap install eclipse --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/04/electron.png,development
+8,PyCharm Pro,Python IDE for Professional Developers,sudo snap install pycharm-professional --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png,development
+9,GitKraken,"For repo management, in-app code editing & issue tracking.",sudo snap install gitkraken,https://dashboard.snapcraft.io/site_media/appmedia/2018/01/1.png,development
+10,IDEA Community,Capable & Ergonomic Java IDE,sudo snap install intellij-idea-community --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png,development
+11,notepadqq,A Notepad++-like editor for Linux.,sudo snap install notepadqq,https://dashboard.snapcraft.io/site_media/appmedia/2018/02/icon.svg_7Eenexu.png,development
+12,kubectl,Command line client for controlling a Kubernetes cluster.,sudo snap install kubectl --classic,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/k8s-logo-256.png,development
+13,powershell,PowerShell for every system!,sudo snap install powershell --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/09/Powershell_black.ico.png,development
+14,IDEA Ultimate,"Capable & Ergonomic Java IDE for Enterprise, Web & Mobile Development",sudo snap install intellij-idea-ultimate --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/logo_zjwX5FR.png,development
+15,Cacher,Cacher is a code snippet library for professional developers. Use it to build a technical knowledge base for you and your team.,sudo snap install cacher,https://dashboard.snapcraft.io/site_media/appmedia/2018/10/ubuntu-login.png,development
+16,WebStorm,Powerful IDE for modern JavaScript development,sudo snap install webstorm --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/11/WebStorm_1282x.png,development
+17,Brackets,"Brackets is a modern code editor for HTML, CSS and JavaScript.",sudo snap install brackets --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/07/brackets_256.png,development
+18,Insomnia,Insomnia REST Client,sudo snap install insomnia,https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png,development
+19,fx,Command-line tool and terminal JSON viewer,sudo snap install fx,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/ezgif.com-resize.gif.png,development
+20,git-standup,Recall what you did on the last working day.,sudo snap install git-standup--edge,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+21,RedisDesktopManager,Redis Desktop Manager,sudo snap install redis-desktop-manager,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/rdm_logo.png,development
+22,Go,"Go programming language compiler, linker, stdlib",sudo snap install go --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/11/gophercolor.png,development
+23,DataGrip,IntelliJ-based IDE for databases and SQL,sudo snap install datagrip --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/11/product_256.png,development
+24,CLion,A cross-platform IDE for C and C++,sudo snap install clion --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/12/clion.ico.png,development
+25,PyCharm EDU,Easy and Professional Tool to Learn & Teach Programming with Python,sudo snap install pycharm-educational --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/12/PyCharmEdu256.png,development
+26,robo3t-snap,Robo 3T,sudo snap install robo3t-snap,https://dashboard.snapcraft.io/site_media/appmedia/2018/09/logo-256x256.png,development
+27,node,Node.js,sudo snap install node --channel=10/stable --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/05/Artboard_4.png,development
+28,GoLand,A Clever IDE to Go,sudo snap install goland --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/11/go_1282x.png,development
+29,RubyMine,The Most Intelligent Ruby and Rails IDE,sudo snap install rubymine --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/11/rubymine.ico.png,development
+30,snapcraft,easily create snaps,sudo snap install snapcraft --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/04/Snapcraft-logo-bird.png,development
+31,sqlitebrowser-casept,Unofficial snap of the lightweight SQLite DB editing tool.,sudo snap install sqlitebrowser-casept,https://dashboard.snapcraft.io/site_media/appmedia/2017/04/sqlitebrowser-256.png,development
+32,git-cola,The highly caffeinated Git GUI,sudo snap install git-cola,https://dashboard.snapcraft.io/site_media/appmedia/2018/07/icon_EQQeUqs.png,development
+33,Kotlin,Command line Kotlin compiler,sudo snap install kotlin --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/02/256px-kotlin-logo-svg.png,development
+34,kotlin-native,Kotlin/Native compiler,sudo snap install kotlin-native --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/04/256px-kotlin-logo-svg.png,development
+35,qucs-spice,Quite Universal Circuit Simulator,sudo snap install qucs-spice,https://dashboard.snapcraft.io/site_media/appmedia/2016/09/icon.svg.png,development
+36,Poedit 2,Translations editor for gettext and XLIFF,sudo snap install poedit,https://dashboard.snapcraft.io/site_media/appmedia/2018/08/poedit.png,development
+37,bower,A package manager for the web,sudo snap install bower --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/02/bower.png,development
+38,sqlitebrowser,DB browser for Sqlite,sudo snap install sqlitebrowser--edge,https://dashboard.snapcraft.io/site_media/appmedia/2018/08/icon.svg.png,development
+39,micro,A modern and intuitive terminal-based text editor,sudo snap install micro --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/micro-logo-mark_yAeRlBT.png,development
+40,ruby,Interpreter of object-oriented scripting language Ruby,sudo snap install ruby --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/04/9c52b09c736d0683d341c126da62d008.png,development
+41,dmd,Reference compiler for the D programming language,sudo snap install dmd --classic,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+42,SQuirreL SQL,A Java SQL client for any JDBC compliant database,sudo snap install squirrelsql,https://dashboard.snapcraft.io/site_media/appmedia/2018/08/splash_256x256.png,development
+43,dub,Package and build manager for D applications and libraries,sudo snap install dub --classic,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+44,ubuntu-make,Setup your development environment on ubuntu easily,sudo snap install ubuntu-make --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/03/pictogram-developer-orange.svg.png,development
+45,.NET Core SDK,"Develop high performance applications in less time, on any platform.",sudo snap install dotnet-sdk --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/05/msft.net_256_8NLBkoS.png,development
+46,Lepton,Free & Open-source Code Snippet Manager,sudo snap install lepton,https://dashboard.snapcraft.io/site_media/appmedia/2018/08/icon_i1tlvPA.png,development
+47,ubuntu-make,Setup your development environment on ubuntu easily,sudo snap install ubuntu-make --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/03/pictogram-developer-orange.svg.png,development
+48,.NET Core SDK,"Develop high performance applications in less time, on any platform.",sudo snap install dotnet-sdk --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/05/msft.net_256_8NLBkoS.png,development
+49,Lepton,Free & Open-source Code Snippet Manager,sudo snap install lepton,https://dashboard.snapcraft.io/site_media/appmedia/2018/08/icon_i1tlvPA.png,development
+50,dbeaver-ce,Universal Database Tool,sudo snap install dbeaver-ce--edge,https://dashboard.snapcraft.io/site_media/appmedia/2018/11/dbeaver256-2.png,development
+51,emacs-tealeg,GNU Emacs 24.5,sudo snap install emacs-tealeg,https://dashboard.snapcraft.io/site_media/appmedia/2016/08/icon.svg_3.png,development
+52,osddm,Oracle SQL Developer Data Modeler,sudo snap install osddm,https://dashboard.snapcraft.io/site_media/appmedia/2016/08/icon256.png,development
+53,Visual Studio Code - Insiders,Code editing. Redefined.,sudo snap install code-insiders --classic,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code512.png,development
+54,git-repo,A tool built on top of Git to manage many Git repositories.,sudo snap install git-repo,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+55,hub,hub is a command-line wrapper for git that makes you better at GitHub.,sudo snap install hub --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/10/icon.png,development
+56,GRV,View and manipulate Git repositories from the command line,sudo snap install grv,https://dashboard.snapcraft.io/site_media/appmedia/2018/10/class.png,development
+57,CircleCI Local CLI,Run local CI builds and validate configuration.,sudo snap install circleci,https://dashboard.snapcraft.io/site_media/appmedia/2018/02/circleci-logo-x256_1kgTXiI.png,development
+58,Simply Fortran,Simply Fortran 3,sudo snap install simplyfortran,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/icon.svg_l0xEd5v.png,development
+59,dbtarzan,Database browser,sudo snap install dbtarzan,https://dashboard.snapcraft.io/site_media/appmedia/2018/05/monkey-face-cartoon_256x256.png,development
+60,tpad,Terminal text editor with GUI-like user interface,sudo snap install tpad,https://dashboard.snapcraft.io/site_media/appmedia/2016/11/tpad.png,development
+61,Altair GraphQL Client,A beautiful feature-rich GraphQL Client for all platforms.,sudo snap install altair,https://dashboard.snapcraft.io/site_media/appmedia/2018/08/logo_G5GFyoN.png,development
+62,MiniZinc,The bundled MiniZinc language toolchain and IDE,sudo snap install minizinc --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/07/icon_QXbQTmZ.png,development
+63,kompare,Diff/Patch Frontend,sudo snap install kompare--candidate,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/kompare_ksj0yYy.png,development
+64,Linode CLI,linode-cli allows you to manage your Linode account from your terminal.,sudo snap install linode-cli,https://dashboard.snapcraft.io/site_media/appmedia/2018/10/icon_8XZ7BC6.png,development
+65,Tiled,"Your free, easy to use and flexible tile map editor.",sudo snap install tiled,https://dashboard.snapcraft.io/site_media/appmedia/2018/03/tiled-logo-256.png,development
+66,mOAuth,OAuth 2.0 Authorization and Resource Server,sudo snap install moauth,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/moauth-256.png,development
+67,terraform,"build, change, and version infrastructure safely and efficiently",sudo snap install terraform,https://dashboard.snapcraft.io/site_media/appmedia/2017/03/rsz_1logo_large-3e11db19.png,development
+68,valgrind,"A programming tool for memory debugging, leak detection, and profiling",sudo snap install valgrind --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/11/icon-256x256_hXeCvOl.png,development
+69,tika-server,Tika Server for metadata discovery and extraction,sudo snap install tika-server,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+70,The XSLT C library for GNOME(UNOFFICIAL),XSLT C library developed for the GNOME project,sudo snap install libxslt,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/icon_wp0JPi6.png,development
+71,netvirt-agent2,NetVirt a is network virtualization platform.,sudo snap install netvirt-agent2,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+72,Apache NetBeans,Apache NetBeans IDE,sudo snap install netbeans --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/11/frame256.png,development
+73,shell2http,Executing shell commands via HTTP server,sudo snap install shell2http,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+74,My Awesome App.,This is the demonstration app. of the Snapcrafters Template Plus,sudo snap install my-awesome-app,https://dashboard.snapcraft.io/site_media/appmedia/2018/08/icon_J40Z2lc.png,development
+75,cpp-dependencies,cpp-dependencies,sudo snap install cpp-dependencies,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/1200px-ISO_C___Logo.svg.png,development
+76,Coulr,Enjoy colors and feel happy!,sudo snap install coulr,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/coulr-256x256.png,development
+77,vapor-master,RosHub Vapor Master,sudo snap install vapor-master,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/roshub_vector_logo-256x256.png,development
+78,lsd,A ls command with a lot of pretty colors.,sudo snap install lsd,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+79,Numpy viewer,Convenient viewer for numpy files.,sudo snap install numpyviewer,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/icon.svg_AO4H6Tq.png,development
+80,asdf,I was bored...,sudo snap install asdf--edge,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/asdf.png,development
+81,paradrop-agent,Paradrop agent for managing an edge computing node,sudo snap install paradrop-agent,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/paradrop_p_256.png,development
+82,crossbar,Crossbar.io - WAMP application router,sudo snap install crossbar,https://dashboard.snapcraft.io/site_media/appmedia/2018/09/crossbar_icon.svg.png,development
+83,Eric python IDE,Eric python IDE,sudo snap install eric-ide --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/icon_XpZYP1Z.png,development
+84,calcmy,Single sum,sudo snap install calcmy--edge,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+85,Umbrello,UML modelling tool and code generator,sudo snap install umbrello,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/umbrello.svg.png,development
+86,crossbar-pypy,Crossbar.io - Polyglot application router.,sudo snap install crossbar-pypy,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/cb_logo_icon_yellow_01.svg.png,development
+87,mir-test-tools,Mir test scripts and applications,sudo snap install mir-test-tools,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+88,knctl,knctl CLI Snap Package,sudo snap install knctl,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+89,egmde-confined-desktop,A minimal Mir based desktop with some test applications,sudo snap install egmde-confined-desktop--beta,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+90,OOP Exercises,OOP Exercises in C++,sudo snap install oop-exercises,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+91,bpftrace,high-level tracing language for Linux eBPF,sudo snap install bpftrace,https://dashboard.snapcraft.io/site_media/appmedia/2018/11/12766186.png,development
+92,Karuta HLS Compiler,Karuta is a scripting language for FPGA design (so called HLS).,sudo snap install karuta,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/wp_400x400.jpg.png,development
+93,bin2src,Convert bytes to source code,sudo snap install bin2src,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+94,Recollectr,Record and recall without breaking your flow,sudo snap install recollectr,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/icon_RAABqxR.png,development
+95,GNU Emacs,GNU Emacs is the extensible self-documenting text editor,sudo snap install emacs --classic,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/emacs_2c1XSzj.png,development
+96,rubber-band-async,Rubberband wxPython app with wxasync clock,sudo snap install rubber-band-async--edge,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+97,test-data,Single-line elevator pitch for your amazing snap,sudo snap install pranavwani-data--edge,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+98,Wing 101 v7,Very Simple Free Python IDE for Beginning Programmers,sudo snap install wing-101-7 --classic,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/wing128_Szv8bCX.png,development
+99,Ubuntu Release Info,Ubuntu distribution release information,sudo snap install ubuntu-release-info,https://dashboard.snapcraft.io/site_media/appmedia/2018/09/distro-info-256.png,development
+100,dfix,Developer tool to auto-upgrade D source code,sudo snap install dfix--edge --classic,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+101,Rider,A fast & powerful cross-platform .NET IDE,sudo snap install rider --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/11/snap-icon.png,development
+102,dscanner,Developer tool for analyzing D source code,sudo snap install dscanner--edge --classic,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+103,Ubuntu Bug Triage,Recently updated Launchpad bugs for triage,sudo snap install ubuntu-bug-triage,https://dashboard.snapcraft.io/site_media/appmedia/2018/09/bug-triage-256.png,development
+104,task,Simple task runner / Make alternative written in Go,sudo snap install task --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/ColoredGopherWrench-256-256.png,development
+105,bash-brlin,"The Bourne Again SHell(Bash) (UNOFFICIAL, EXPERIMENTAL)",sudo snap install bash-brlin,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+106,Console Qt Deployer,Deploy your qt projects,sudo snap install cqtdeployer,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/icon_snap.png,development
+107,Bash Language Server,Bash Language Server,sudo snap install bash-language-server,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+108,icecream-sundae,Commandline Monitor for Icecream.,sudo snap install icecream-sundae-snap,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+109,snapd-hacker-toolbelt,Collection of tools useful for developers hacking on snapd,sudo snap install snapd-hacker-toolbelt,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+110,XML Toolkit from the GNOME Project,XML C parser and toolkit developed for the Gnome project,sudo snap install libxml2,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/icon_px4cTrq.png,development
+111,graviton,Graviton,sudo snap install graviton--beta,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+112,qlik-corectl,A command line interface tool for the Qlik Associative Engine,sudo snap install qlik-corectl,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+113,egmde,"Try Mir as your desktop, or as a window on your desktop",sudo snap install egmde--beta --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/11/vlcsnap-2018-11-23-12h27m15s713.png,development
+114,kernelscan,fast kernel source error message scanner,sudo snap install kernelscan,https://dashboard.snapcraft.io/site_media/appmedia/2018/11/kernelscan.png,development
+115,Visual Studio Code,Code editing. Redefined.,sudo snap install code --classic,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code_ozwVHSV.png,development
+116,MQTT Explorer,A comprehensive and easy to use MQTT Client,sudo snap install mqtt-explorer,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/icon_iw8lQW2.png,development
+117,k9s,K9s is a CLI to view and manage your Kubernetes clusters.,sudo snap install k9s,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/k9s_snall.png,development
+118,LXD,System container manager and API,sudo snap install lxd,https://dashboard.snapcraft.io/site_media/appmedia/2016/08/containers.png,development
+119,QML Creator,A lightweight QML IDE,sudo snap install qmlcreator,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/icon256.png,development
+120,Titania X3D Editor,"Edit, view, and navigate in X3D and VRML worlds",sudo snap install titania,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/icon_xYCc6GY.png,development
+121,firestr,The Grass Computing Platform,sudo snap install firestr,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/firestr.svg.png,development
+122,popeye,A Kubernetes Cluster sanitizer and linter.,sudo snap install popeye,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/popeye.png,development
+123,Launchpad tooling for Git,Tools to make git work well with Launchpad,sudo snap install gitlptools --classic,https://dashboard.snapcraft.io/site_media/appmedia/2017/11/lpgitlogo-256.jpg_nNZNamw.png,development
+124,pngquant,Lossy PNG compressor,sudo snap install pngquant,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/pngquant-logo.png,development
+125,logcat-colorize,logcat-colorize,sudo snap install logcat-colorize,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+126,Grafana,feature rich metrics dashboard and graph editor,sudo snap install grafana-ijohnson,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+127,Icecream Sundae,Icecream Sundae,sudo snap install icecream-sundae--edge,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+128,E-tools,"A toolbox for developers. Color picker, code formatter, and more",sudo snap install e-tools,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/512.png,development
+129,skaffold,Easy and Repeatable Kubernetes Development,sudo snap install skaffold,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+130,lefthook,For rule your git hooks,sudo snap install lefthook,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+131,The Things Network Stack for LoRaWAN,Open source LoRaWAN Network Server,sudo snap install ttn-lw-stack,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+132,Nordic Thingy52 Dev Kit,Compact multi-sensor BLE prototyping platform,sudo snap install thingy52,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/Thingy_symbol.png,development
+133,Wing Pro 7,Full-Featured Python IDE for Professional Developers,sudo snap install wing7 --classic,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/wing128.png,development
+134,getenv,Keep track of your .env files,sudo snap install getenv,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+135,ccache — Compiler cache (UNOFFICIAL),A fast C/C++ compiler cache,sudo snap install ccache --classic,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+136,D Completion Daemon,Auto-completion service for the D programming language,sudo snap install dcd--edge --classic,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+137,ccls C/C++/ObjC Language Server,C/C++/ObjC Language Server,sudo snap install ccls,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+138,HTTPie,HTTPie in a snap,sudo snap install http,https://dashboard.snapcraft.io/site_media/appmedia/2015/10/http.png,development
+139,xpd,eXtended Parameter Designer,sudo snap install xpd--edge,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/xpd.svg.png,development
+140,micropython,MicroPython Unix port,sudo snap install micropython,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/mp_logo.png,development
+141,zworkbench,ZWorkbench,sudo snap install zworkbench,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/application-zworkbench.png,development
+142,P3X Redis UI,"P3X Redis UI can work with huge key sets, is functional and works on the web and desktop (Electron)",sudo snap install p3x-redis-ui,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/512x512_u4wAccC.png,development
+143,PSPad,PSPad is a text editor for developers.,sudo snap install pspad,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+144,Dunner,A Docker based tas runner tool,sudo snap install dunner,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+145,libfolding,A C++ library to compute the folding test of unimodality over streaming data,sudo snap install libfolding,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/ftu.png,development
+146,dfmt,Code formatter for the D programming language,sudo snap install dfmt--edge --classic,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+147,Ubuntu ISO Download,Download the latest Ubuntu ISOs,sudo snap install ubuntu-iso-download,https://dashboard.snapcraft.io/site_media/appmedia/2018/09/iso-download-256.png,development
+148,cevelop,The C++ IDE for professional developers,sudo snap install cevelop--edge --classic,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+149,Leafpad,GTK+ based simple text editor,sudo snap install leafpad,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/leafpad.svg.png,development
+150,libspot,A C++ library to flag outliers in streaming data,sudo snap install libspot,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/ico.png,development
+151,bitwise,Terminal based bitwise calculator in curses,sudo snap install bitwise,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/bitwise.png,development
+152,cdbc,C library providing simple and easy to use interfaces to the ODBC API,sudo snap install cdbc--beta,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/cdbc.png,development
+153,kafkactl,A command-line interface for interaction with Apache Kafka,sudo snap install kafkactl,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+154,hcloud,A command-line interface for Hetzner Cloud.,sudo snap install hcloud--edge,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+155,faultstat,tool to measure page faults,sudo snap install faultstat,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+156,Text Editor,Edit text files,sudo snap install gedit,https://dashboard.snapcraft.io/site_media/appmedia/2017/07/gedit.png,development
+157,cfn-format,Formats AWS CloudFormation templates.,sudo snap install cfn-format,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+158,gforth-mtrute,gforth snap,sudo snap install gforth-mtrute--edge,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+159,Zalupa Bomber,Zalupa Bomber,sudo snap install zalupa-bomber,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/icon.svg_NIwfyJP.png,development
+160,Wing Personal 7,Free Python IDE for Students and Hobbyists,sudo snap install wing-personal7 --classic,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/wing128_EUaOI2L.png,development
+161,juju,juju client,sudo snap install juju --classic,https://dashboard.snapcraft.io/site_media/appmedia/2018/11/image-juju-256.svg.png,development
+162,cURL,Use cURL to download things,sudo snap install curl-ijohnson,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+163,Scratux,Scratux,sudo snap install scratux,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/512x512_lf5XuH7.png,development
+164,pre-commit,A framework for managing and maintaining multi-language pre-commit hooks,sudo snap install pre-commit --classic,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/icon_lugx4Kz.png,development
+165,YAML Language Server,YAML Language Server,sudo snap install yaml-language-server,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+166,Postbird,PostgreSQL GUI client,sudo snap install postbird,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/icon_7Bz9Kdk.png,development
+167,cppcheck,A tool for static C/C++ code analysis,sudo snap install cppcheck,https://dashboard.snapcraft.io/site_media/appmedia/2018/11/cppcheck.png,development
+168,Alpha App,Alpha App,sudo snap install alphaapp,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/64x64.png,development
+169,juju-crashdump,Gather logs and other debugging info from a Juju model,sudo snap install juju-crashdump --classic,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+170,ffmpeg-integration-lgpl,The FFmpeg integration stage snap for consumer snaps(LGPL compatible),sudo snap install ffmpeg-integration-lgpl,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/icon.svg_UU5w1eq.png,development
+171,buzyteam,buzyteam,sudo snap install buzyteam,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+172,Glade,Create or open user interface designs for GTK+ applications,sudo snap install glade,https://dashboard.snapcraft.io/site_media/appmedia/2017/09/glade.png,development
+173,LP Build Snap,Utility to trigger Snap package builds in Launchpad,sudo snap install lp-build-snap,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/launchpad-logo.png,development
+174,InfluxDB,An Open-Source Time Series Database,sudo snap install influxdb-ijohnson,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,development
+175,adtl,API Development and Testing Tool,sudo snap install adtl,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/icon_Xvqdq5V.png,development
+176,tqdm,"A fast, extensible CLI progress bar",sudo snap install tqdm,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/logo.png,development
+177,cass,A database GUI,sudo snap install cass,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/icon_rpHhDdD.png,development
+178,gitea,Gitea - A painless self-hosted Git service,sudo snap install gitea--edge,https://dashboard.snapcraft.io/site_media/appmedia/2018/05/gitea-lg.png,development

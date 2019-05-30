@@ -7,6 +7,7 @@ import csv
 appname=[]
 appdesc=[]
 applink=[]
+appimagelink=[]
 appcategory='New and Weather';
 
 url = "https://snapcraft.io/search?category=news-and-weather"
@@ -26,12 +27,14 @@ for i in soup.findAll('a',attrs={'class':'p-media-object'},href=True):
 			a = k.find('input')['value']
 			myString = re.sub(r"[\n\t]*", "",a)
 			applink.append(myString)
-	
+		for l in soup.findAll('img',attrs={'class':'p-snap-heading__icon'}):
+			appimagelink.append(l['src'])
+					
 
 with open('news-and-weather.csv', 'a') as csvFile:
     writer = csv.writer(csvFile)
     for i in range(len(appname)):
-   		writer.writerow([i+1,appname[i],appdesc[i],applink[i],appcategory])
+   		writer.writerow([i+1,appname[i],appdesc[i],applink[i],appimagelink[i],appcategory])
 
 		
 

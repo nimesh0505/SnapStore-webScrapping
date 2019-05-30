@@ -1,178 +1,178 @@
-1,DOSBox-X,DOSBox-X fork of the DOSBox project,sudo snap install dosbox-x,games
-2,Super Tux Kart,SuperTuxKart is a free kart racing game,sudo snap install supertuxkart,games
-3,M.A.R.S. - a ridiculous shooter,A 2D space shooter with awesome visual effects and attractive physics.,sudo snap install marsshooter,games
-4,solitaire,"usual Solitaire card game, as known as Patience or Klondike",sudo snap install solitaire,games
-5,OpenRA,A Libre/Free Real Time Strategy game engine supporting early Westwood classics,sudo snap install openra,games
-6,Warzone 2100,A free and open source real time strategy game,sudo snap install warzone2100,games
-7,RetroArch,RetroArch,sudo snap install retroarch,games
-8,TrackMania Nations Forever,TrackMania Nations Forever,sudo snap install tmnationsforever,games
-9,Xonotic,The Free and Fast Arena Shooter,sudo snap install xonotic,games
-10,WolfenDoom: Blade of Agony,WolfenDoom: Blade of Agony,sudo snap install boa,games
-11,mc-installer,Minecraft Downloader and Installer,sudo snap install mc-installer,games
-12,oh my giraffe,oh my giraffe,sudo snap install ohmygiraffe,games
-13,Micropolis,"Micropolis, the original city simulation game from Maxis Software",sudo snap install micropolis,games
-14,Quadrapassel,Fit falling blocks together,sudo snap install quadrapassel,games
-15,sudoku-game,Sudoku 9x9 game,sudo snap install sudoku-game,games
-16,ScummVM,ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games,sudo snap install scummvm,games
-17,codebreakers,Guess the code and unlock RogueBot Central,sudo snap install codebreakers,games
-18,Tales of Maj'Eyal,"A free, open source roguelike RPG",sudo snap install talesofmajeyal,games
-19,SDLPoP,SDLPoP,sudo snap install sdlpop,games
-20,Shattered Pixel Dungeon,LibGDX port of the awesome Pixel Dungeon,sudo snap install shattered-pixel-dungeon,games
-21,GOG Galaxy,Gaming library for GOG.com. DRM-free games.,sudo snap install gog-galaxy-wine,games
-22,pin-town,"Help the Pin Pals in this physics puzzle game, inspired by Pachinko",sudo snap install pin-town,games
-23,spelunky,Spelunky Classic HD,sudo snap install spelunky,games
-24,bash-shell-rpg,A 2D open world action RPG to play on the command line.,sudo snap install bash-shell-rpg,games
-25,Mr. Rescue,Arcade-style fire fighting game,sudo snap install mrrescue,games
-26,Duck Marines,Remake of ChuChu Rocket,sudo snap install duckmarines,games
-27,zzt,ZZT,sudo snap install zzt,games
-28,C&C: Red Alert,C&C: Red Alert is a real-time strategy game.,sudo snap install cncra,games
-29,C&C: Tiberian Sun,C&C: Tiberian Sun is a real-time strategy game.,sudo snap install cnctsun,games
-30,Star Ruler 2,A massive scale 4X/RTS set in space,sudo snap install starruler2,games
-31,JGalaxian,A Java Galaxian clone,sudo snap install jgalaxian,games
-32,MMapper,MUME Mapper,sudo snap install mmapper,games
-33,Eureka DOOM Editor,Eureka is a map editor for the classic DOOM games.,sudo snap install eureka-doom-editor,games
-34,TrenchBroom,A modern cross-platform level editor for Quake-engine based games.,sudo snap install trenchbroom,games
-35,spider-solitaire,Spider Solitaire card game,sudo snap install spider-solitaire,games
-36,reversu,ReversU is strategy board game with black & white tokens,sudo snap install reversu,games
-37,minesweeper,Minesweeper game,sudo snap install minesweeper,games
-38,mahjong-game,"Mahjong game, a one-player game. Based on SDL2",sudo snap install mahjong-game,games
-39,freecell-solitaire,"FreeCell Solitaire, card game",sudo snap install freecell-solitaire,games
-40,balloon-pop,balloon popper game & puzzle,sudo snap install balloon-pop,games
-41,bubble-pop,bubble popper game & puzzle.,sudo snap install bubble-pop,games
-42,connect4,4 in a Line/Row game,sudo snap install connect4,games
-43,explode-bricks,very Simple Bricks game,sudo snap install explode-bricks,games
-44,tic-tac-toe,"Basic Tic-Tac-Toe game, based on SDL2",sudo snap install tic-tac-toe,games
-45,GNOME Chess,Play the classic two-player board game of chess,sudo snap install gnome-chess,games
-46,Live For Speed,Live for Speed (LFS) is a online racing simulator.,sudo snap install liveforspeed,games
-47,tic-tac-toe,"Basic Tic-Tac-Toe game, based on SDL2",sudo snap install tic-tac-toe,games
-48,GNOME Chess,Play the classic two-player board game of chess,sudo snap install gnome-chess,games
-49,Live For Speed,Live for Speed (LFS) is a online racing simulator.,sudo snap install liveforspeed,games
-50,gnuchess,"Plays a game of chess, includes GUI and CLI. Run ""gnuchess.readme"" for more information!",sudo snap install gnuchess,games
-51,minecraft-server-jdstrand,Minecraft server packaging for Ubuntu Core,sudo snap install minecraft-server-jdstrand,games
-52,Minetest,Minetest,sudo snap install minetest,games
-53,Dwarf Fortress,Dwarf Fortress world simulator,sudo snap install dwarf-fortress,games
-54,GNOME Mahjongg,Match tiles and clear the board,sudo snap install gnome-mahjongg,games
-55,Urban Terror,Free multiplayer first person shooter developed by FrozenSand,sudo snap install urban-terror,games
-56,Minetest (luk3yx's unofficial builds),luk3yx's unofficial Minetest builds. Credit to the snappy playpen.,sudo snap install minetest-luk3yx,games
-57,GNOME Sudoku,Test your logic skills in this number grid puzzle,sudo snap install gnome-sudoku,games
-58,minecraft-nsg,Minecraft Launcher downloader,sudo snap install minecraft-nsg,games
-59,MAME,Multiple Arcade Machine Emulator (MAME),sudo snap install mame,games
-60,gamehub-fenriswolf,"Games manager written in Vala that supports GOG, Steam and Humble Bundle",sudo snap install gamehub-fenriswolf--edge,games
-61,node-games,Three fun console games written using Node.,sudo snap install node-games,games
-62,game-2048,2048 puzzle game,sudo snap install game-2048,games
-63,C&C: Red Alert 2 Yuri's Revenge,C&C Red Alert 2 Yuri's Revenge is a real-time strategy game.,sudo snap install cncra2yr,games
-64,pingus-game,Free Lemmings(TM) clone,sudo snap install pingus-game,games
-65,savagexr,"Savage XR - The Battle for Newerth, an online team based action strategy game.",sudo snap install savagexr--beta,games
-66,Eternal Lands MMORPG,Eternal Lands is a free 3D fantasy MMORPG (massively multiplayer online role playing game).,sudo snap install eternallands,games
-67,hanoi-tower,Latest version of Hanoi Tower,sudo snap install hanoi-tower,games
-68,Collision,A ball dodging game,sudo snap install collision,games
-69,Love2d,Hi there! LÖVE is here :),sudo snap install love2d,games
-70,level9,Interpreter for Level 9 interactive fiction games,sudo snap install level9,games
-71,Moonlight,Play games remotely from your NVIDIA GameStream-enabled PC,sudo snap install moonlight,games
-72,gdlauncher,GDLauncher,sudo snap install gdlauncher--beta,games
-73,ags,adventure game studio engine for playing ags games.,sudo snap install ags,games
-74,mgba,mGBA Game Boy Advance Emulator https://mgba.io/,sudo snap install mgba,games
-75,vitetris,Console based version of Tetris,sudo snap install vitetris,games
-76,LambdaRogue: The Book of Stars,LambdaRogue is a roguelike RPG,sudo snap install lambdarogue--beta,games
-77,codenamelt,A pixelart game where you have to run without getting caught by evil agents.,sudo snap install codenamelt,games
-78,ksirk,Risk strategy game,sudo snap install ksirk,games
-79,gnome-hitori,Play the Hitori puzzle game,sudo snap install gnome-hitori,games
-80,kanagame,A simple flashcard based game for learning kana.,sudo snap install kanagame,games
-81,PrBoom+ (fork),A version of the classic 3D shoot'em'up game Doom,sudo snap install prboom-plus-beidl,games
-82,kigo,Go Board Game,sudo snap install kigo--candidate,games
-83,hanoi-towers,Hanoi Towers Game,sudo snap install hanoi-towers,games
-84,epicpinball,Epic Pinball shareware installer,sudo snap install epicpinball,games
-85,freeorion,Turn-based space empire and galactic conquest (4X) computer game,sudo snap install freeorion,games
-86,Gnome Twitch,Enjoy Twitch on your GNU/Linux desktop,sudo snap install gnome-twitch,games
-87,CorsixTH,Open source clone of Theme Hospital,sudo snap install corsixth,games
-88,Linux Tycoon,Linux Tycoon for DOS,sudo snap install linuxtycoon,games
-89,Solarus,A free and open-source Action-RPG game engine,sudo snap install solarus,games
-90,Reicast,Reicast is a Sega Dreamcast emulator,sudo snap install reicast,games
-91,Omission,A deceptively simple word puzzle.,sudo snap install omission--beta,games
-92,bomber,Arcade Bombing Game,sudo snap install bomber,games
-93,VCMI,VCMI — Open-source engine for Heroes of Might and Magic III,sudo snap install vcmi--edge,games
-94,GNOME Mines,Clear hidden mines from a minefield,sudo snap install gnome-mines,games
-95,kubrick,A 3-D game based on Rubik's Cube,sudo snap install kubrick,games
-96,palapeli,Jigsaw puzzle game,sudo snap install palapeli,games
-97,GNOME Klotski,Slide blocks to solve the puzzle,sudo snap install gnome-klotski,games
-98,ksudoku,"KSudoku, Sudoku game & more by KDE",sudo snap install ksudoku,games
-99,kmines,Minesweeper-like Game,sudo snap install kmines,games
-100,kgoldrunner,A game of action and puzzle-solving,sudo snap install kgoldrunner,games
-101,nethack,The popular nethack console adventure,sudo snap install nethack,games
-102,kblocks,Falling Blocks Game,sudo snap install kblocks,games
-103,bovo,"""Five in a row"" board game",sudo snap install bovo,games
-104,GNOME Nibbles,Guide a worm around a maze,sudo snap install gnome-nibbles,games
-105,blinken,Memory Enhancement Game,sudo snap install blinken,games
-106,KPatience,Solitaire card game,sudo snap install kpat,games
-107,kfourinline,Connect Four game,sudo snap install kfourinline,games
-108,klickety,SameGame puzzle game,sudo snap install klickety,games
-109,kmahjongg,mahjongg solitaire game,sudo snap install kmahjongg--candidate,games
-110,kspaceduel,Space Arcade Game,sudo snap install kspaceduel,games
-111,kanagram,KDE Letter Order Game,sudo snap install kanagram,games
-112,klines,color lines game,sudo snap install klines,games
-113,ksnakeduel,Tron-like Game,sudo snap install ksnakeduel,games
-114,kblackbox,Blackbox Logic Game,sudo snap install kblackbox,games
-115,killbots,port of the classic BSD console game robots,sudo snap install killbots,games
-116,knetwalk,wire puzzle game,sudo snap install knetwalk--candidate,games
-117,kreversi,Reversi Board Game,sudo snap install kreversi--candidate,games
-118,katomic,Sokoban-like Logic Game,sudo snap install katomic,games
-119,Iagno,Dominate the board in a classic version of Reversi,sudo snap install iagno,games
-120,kbreakout,ball and paddle game,sudo snap install kbreakout,games
-121,knavalbattle,battleship board game,sudo snap install knavalbattle,games
-122,picmi,Puzzle game based on number logic,sudo snap install picmi,games
-123,kiriki,Yahtzee-like Dice Game,sudo snap install kiriki,games
-124,ktuberling,A simple constructor game suitable for children and adults alike,sudo snap install ktuberling,games
-125,kjumpingcube,simple tactical game,sudo snap install kjumpingcube,games
-126,kollision,Casual ball game,sudo snap install kollision,games
-127,kbounce,Jezzball arcade game,sudo snap install kbounce,games
-128,kshisen,Shisen-Sho Mahjongg-like Tile Game,sudo snap install kshisen--candidate,games
-129,kapman,Eat pills escaping ghosts,sudo snap install kapman,games
-130,ksquares,Connect the dots to create squares,sudo snap install ksquares,games
-131,konquest,Galactic Strategy Game,sudo snap install konquest,games
-132,granatier,Bomberman clone,sudo snap install granatier,games
-133,Ascii Patrol,Ascii Patrol,sudo snap install ascii-patrol,games
-134,azimuth,Azimuth - A metroidvania with vector graphics,sudo snap install azimuth,games
-135,Rigs of Rods,Rigs of Rods,sudo snap install rigs-of-rods--candidate,games
-136,Swell Foop,Clear the screen by removing groups of colored and shaped tiles,sudo snap install swell-foop,games
-137,OGRE Sample Browser,Object-Oriented Graphics Rendering Engine,sudo snap install ogre,games
-138,mc-server-installer,Minecraft Server Downloader and Installer,sudo snap install mc-server-installer,games
-139,Pixels,Pixels Game,sudo snap install pixels-game--beta,games
-140,BZFlag,A 3D first person tank battle game,sudo snap install bzflag,games
-141,Mari0 (UNOFFICIAL),Mario + Portal platformer,sudo snap install mari0,games
-142,glest,Glest,sudo snap install glest--edge,games
-143,den,A multiplayer game for your terminal,sudo snap install den,games
-144,GNOME 2048,Obtain the 2048 tile,sudo snap install gnome-2048,games
-145,teeworlds,A retro multiplayer shooter,sudo snap install teeworlds-unofficial,games
-146,wyvern,CLI GOG downloader client,sudo snap install wyvern--beta,games
-147,Cave Story | NXEngine Evo,Doukutsu Monogatari - Classic side-scrolling platformer game,sudo snap install cavestory,games
-148,CRRCSim,Model airplane flight simulator,sudo snap install crrcsim-simulator,games
-149,Open Syobon Action (オープンしょぼんのアクション),An open-source cross-platform port of the unforgiving Japanese platformer,sudo snap install open-syobon-action,games
-150,Lightsoff,Turn off all the lights,sudo snap install lightsoff,games
-151,Foobillard-plus,Billard game simulator,sudo snap install foobillard-plus,games
-152,GNOME Tetravex,Reorder tiles to fit a square,sudo snap install gnome-tetravex,games
-153,roll,A python dice rolling application using standard dice notation,sudo snap install roll,games
-154,Caprice32 Amstrad CPC emulator,Amstrad CPC emulator,sudo snap install caprice32,games
-155,Solvitaire,solitaire (klondike & spider) in your terminal,sudo snap install solvitaire,games
-156,mki3dgame-snap,A game of finding tokens in 3D stages among the flying monsters.,sudo snap install mki3dgame-snap,games
-157,discord-bartixxx,Free voice and text chat,sudo snap install discord-bartixxx,games
-158,CCLite,A ComputerCraft Emulator,sudo snap install cclite,games
-159,The Traveling Fox,Simple FOSS 3D Platformer,sudo snap install the-traveling-fox,games
-160,Snipes,Snipes,sudo snap install snipes,games
-161,freeorion-agrrr3,turn-based space empire and galactic conquest (4X) computer game,sudo snap install freeorion-agrrr3,games
-162,bzflag-tjhanson,Free 3D online multi-player multi-platform tank battle game.,sudo snap install bzflag-tjhanson,games
-163,GNOME Robots,Avoid the robots and make them crash into each other,sudo snap install gnome-robots,games
-164,love,Free 2D Game Engine,sudo snap install love,games
-165,citra-mts,Nintendo 3DS Emulator,sudo snap install citra-mts--edge,games
-166,Morpion,Morpion,sudo snap install morpion,games
-167,xbill,Get rid of those Wingdows Viruses!,sudo snap install xbill-xaw,games
-168,Neverbore Picross,A picture logic puzzle game,sudo snap install neverbore,games
-169,Mari0: CE (UNOFFICIAL),A community-driven effort to fix and polish the latest version of Mari0:SE,sudo snap install mari0-ce,games
-170,Ion Digital Currency (Official release),gaming related peer-to-peer network based digital currency,sudo snap install ioncore,games
-171,Dwarf Fortress Classic,Dwarf Fortress world simulator.,sudo snap install dwarffortress,games
-172,squarehead,SquareHead classic game,sudo snap install squarehead,games
-173,Open Karaoke Producer,Open Karaoke Producer,sudo snap install open-karaoke-producer,games
-174,Five or More,Remove colored balls from the board by forming lines,sudo snap install five-or-more,games
-175,Minetest 0.4 (unofficial fork),minetest-luk3yx-4: A Minetest 0.4 fork.,sudo snap install minetest-luk3yx-4,games
-176,OS RuneScape Launcher,Old School RuneScape launcher,sudo snap install os-runes,games
-177,OpenTyrian,An arcade-style shoot 'em up,sudo snap install opentyrian,games
-178,cataclysm,Post-apocalyptic survival roguelike,sudo snap install cataclysm,games
+1,DOSBox-X,DOSBox-X fork of the DOSBox project,sudo snap install dosbox-x,https://dashboard.snapcraft.io/site_media/appmedia/2018/03/dosbox-x.png,games
+2,Super Tux Kart,SuperTuxKart is a free kart racing game,sudo snap install supertuxkart,https://dashboard.snapcraft.io/site_media/appmedia/2018/01/supertuxkart-256.png,games
+3,M.A.R.S. - a ridiculous shooter,A 2D space shooter with awesome visual effects and attractive physics.,sudo snap install marsshooter,https://dashboard.snapcraft.io/site_media/appmedia/2017/11/mars-256_etORXwv.png,games
+4,solitaire,"usual Solitaire card game, as known as Patience or Klondike",sudo snap install solitaire,https://dashboard.snapcraft.io/site_media/appmedia/2016/07/icon_app256_1.png,games
+5,OpenRA,A Libre/Free Real Time Strategy game engine supporting early Westwood classics,sudo snap install openra,https://dashboard.snapcraft.io/site_media/appmedia/2017/08/openra.png,games
+6,Warzone 2100,A free and open source real time strategy game,sudo snap install warzone2100,https://dashboard.snapcraft.io/site_media/appmedia/2017/09/warzone2100.large.png,games
+7,RetroArch,RetroArch,sudo snap install retroarch,https://dashboard.snapcraft.io/site_media/appmedia/2018/08/icon_dark.ico.png,games
+8,TrackMania Nations Forever,TrackMania Nations Forever,sudo snap install tmnationsforever,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/tmnationsforever.png,games
+9,Xonotic,The Free and Fast Arena Shooter,sudo snap install xonotic,https://dashboard.snapcraft.io/site_media/appmedia/2018/07/xonotic_256x.png,games
+10,WolfenDoom: Blade of Agony,WolfenDoom: Blade of Agony,sudo snap install boa,https://dashboard.snapcraft.io/site_media/appmedia/2017/12/boa.png,games
+11,mc-installer,Minecraft Downloader and Installer,sudo snap install mc-installer,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/mcinstaller.png,games
+12,oh my giraffe,oh my giraffe,sudo snap install ohmygiraffe,https://dashboard.snapcraft.io/site_media/appmedia/2017/01/oh-my-giraffe_256.png,games
+13,Micropolis,"Micropolis, the original city simulation game from Maxis Software",sudo snap install micropolis,https://dashboard.snapcraft.io/site_media/appmedia/2017/11/micropolis.png,games
+14,Quadrapassel,Fit falling blocks together,sudo snap install quadrapassel,https://dashboard.snapcraft.io/site_media/appmedia/2017/07/quadrapassel.svg.png,games
+15,sudoku-game,Sudoku 9x9 game,sudo snap install sudoku-game,https://dashboard.snapcraft.io/site_media/appmedia/2016/07/icon_app256_6.png,games
+16,ScummVM,ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games,sudo snap install scummvm,https://dashboard.snapcraft.io/site_media/appmedia/2016/06/256px-Scummvm_icon.svg.png,games
+17,codebreakers,Guess the code and unlock RogueBot Central,sudo snap install codebreakers,https://dashboard.snapcraft.io/site_media/appmedia/2017/01/codebreakers.png,games
+18,Tales of Maj'Eyal,"A free, open source roguelike RPG",sudo snap install talesofmajeyal,https://dashboard.snapcraft.io/site_media/appmedia/2018/02/tome.png,games
+19,SDLPoP,SDLPoP,sudo snap install sdlpop,https://dashboard.snapcraft.io/site_media/appmedia/2018/03/sdlpop.png,games
+20,Shattered Pixel Dungeon,LibGDX port of the awesome Pixel Dungeon,sudo snap install shattered-pixel-dungeon,https://dashboard.snapcraft.io/site_media/appmedia/2018/03/shattered-pixel-dungeon.png,games
+21,GOG Galaxy,Gaming library for GOG.com. DRM-free games.,sudo snap install gog-galaxy-wine,https://dashboard.snapcraft.io/site_media/appmedia/2018/06/11986444_1487876441538394_4647201811723616911_n.png,games
+22,pin-town,"Help the Pin Pals in this physics puzzle game, inspired by Pachinko",sudo snap install pin-town,https://dashboard.snapcraft.io/site_media/appmedia/2017/05/icon_256_1.png,games
+23,spelunky,Spelunky Classic HD,sudo snap install spelunky,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,games
+24,bash-shell-rpg,A 2D open world action RPG to play on the command line.,sudo snap install bash-shell-rpg,https://dashboard.snapcraft.io/site_media/appmedia/2018/07/icon_MZV58q1.png,games
+25,Mr. Rescue,Arcade-style fire fighting game,sudo snap install mrrescue,https://dashboard.snapcraft.io/site_media/appmedia/2017/06/mrrescue.png,games
+26,Duck Marines,Remake of ChuChu Rocket,sudo snap install duckmarines,https://dashboard.snapcraft.io/site_media/appmedia/2017/06/duckmarines.png,games
+27,zzt,ZZT,sudo snap install zzt,https://dashboard.snapcraft.io/site_media/appmedia/2017/08/zzt_256a.png,games
+28,C&C: Red Alert,C&C: Red Alert is a real-time strategy game.,sudo snap install cncra,https://dashboard.snapcraft.io/site_media/appmedia/2018/07/cncra.png,games
+29,C&C: Tiberian Sun,C&C: Tiberian Sun is a real-time strategy game.,sudo snap install cnctsun,https://dashboard.snapcraft.io/site_media/appmedia/2018/07/tsun.png,games
+30,Star Ruler 2,A massive scale 4X/RTS set in space,sudo snap install starruler2,https://dashboard.snapcraft.io/site_media/appmedia/2018/07/sr2.png,games
+31,JGalaxian,A Java Galaxian clone,sudo snap install jgalaxian,https://dashboard.snapcraft.io/site_media/appmedia/2018/07/jgalaxian.png,games
+32,MMapper,MUME Mapper,sudo snap install mmapper,https://dashboard.snapcraft.io/site_media/appmedia/2018/08/m.png,games
+33,Eureka DOOM Editor,Eureka is a map editor for the classic DOOM games.,sudo snap install eureka-doom-editor,https://dashboard.snapcraft.io/site_media/appmedia/2018/08/eurekaicon.png,games
+34,TrenchBroom,A modern cross-platform level editor for Quake-engine based games.,sudo snap install trenchbroom,https://dashboard.snapcraft.io/site_media/appmedia/2018/08/icon_256_qnNkJkG.png,games
+35,spider-solitaire,Spider Solitaire card game,sudo snap install spider-solitaire,https://dashboard.snapcraft.io/site_media/appmedia/2016/07/icon_app256_3.png,games
+36,reversu,ReversU is strategy board game with black & white tokens,sudo snap install reversu,https://dashboard.snapcraft.io/site_media/appmedia/2016/07/icon_app256_5.png,games
+37,minesweeper,Minesweeper game,sudo snap install minesweeper,https://dashboard.snapcraft.io/site_media/appmedia/2016/07/icon_app256_2.png,games
+38,mahjong-game,"Mahjong game, a one-player game. Based on SDL2",sudo snap install mahjong-game,https://dashboard.snapcraft.io/site_media/appmedia/2016/07/icon_app256.png,games
+39,freecell-solitaire,"FreeCell Solitaire, card game",sudo snap install freecell-solitaire,https://dashboard.snapcraft.io/site_media/appmedia/2016/07/icon_app256_4.png,games
+40,balloon-pop,balloon popper game & puzzle,sudo snap install balloon-pop,https://dashboard.snapcraft.io/site_media/appmedia/2016/07/icon256.png,games
+41,bubble-pop,bubble popper game & puzzle.,sudo snap install bubble-pop,https://dashboard.snapcraft.io/site_media/appmedia/2016/07/icon_app256_7.png,games
+42,connect4,4 in a Line/Row game,sudo snap install connect4,https://dashboard.snapcraft.io/site_media/appmedia/2016/07/icon_app256_10.png,games
+43,explode-bricks,very Simple Bricks game,sudo snap install explode-bricks,https://dashboard.snapcraft.io/site_media/appmedia/2016/07/icon_app256_9.png,games
+44,tic-tac-toe,"Basic Tic-Tac-Toe game, based on SDL2",sudo snap install tic-tac-toe,https://dashboard.snapcraft.io/site_media/appmedia/2016/05/icon_app256.png,games
+45,GNOME Chess,Play the classic two-player board game of chess,sudo snap install gnome-chess,https://dashboard.snapcraft.io/site_media/appmedia/2017/09/gnome-chess.png,games
+46,Live For Speed,Live for Speed (LFS) is a online racing simulator.,sudo snap install liveforspeed,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/logo.png,games
+47,tic-tac-toe,"Basic Tic-Tac-Toe game, based on SDL2",sudo snap install tic-tac-toe,https://dashboard.snapcraft.io/site_media/appmedia/2016/05/icon_app256.png,games
+48,GNOME Chess,Play the classic two-player board game of chess,sudo snap install gnome-chess,https://dashboard.snapcraft.io/site_media/appmedia/2017/09/gnome-chess.png,games
+49,Live For Speed,Live for Speed (LFS) is a online racing simulator.,sudo snap install liveforspeed,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/logo.png,games
+50,gnuchess,"Plays a game of chess, includes GUI and CLI. Run ""gnuchess.readme"" for more information!",sudo snap install gnuchess,https://dashboard.snapcraft.io/site_media/appmedia/2016/06/WhiteKing.png,games
+51,minecraft-server-jdstrand,Minecraft server packaging for Ubuntu Core,sudo snap install minecraft-server-jdstrand,https://dashboard.snapcraft.io/site_media/appmedia/2016/05/icon_21.png,games
+52,Minetest,Minetest,sudo snap install minetest,https://dashboard.snapcraft.io/site_media/appmedia/2018/01/minetest.png,games
+53,Dwarf Fortress,Dwarf Fortress world simulator,sudo snap install dwarf-fortress,https://dashboard.snapcraft.io/site_media/appmedia/2017/01/icon_26.png,games
+54,GNOME Mahjongg,Match tiles and clear the board,sudo snap install gnome-mahjongg,https://dashboard.snapcraft.io/site_media/appmedia/2017/09/gnome-mahjongg.svg.png,games
+55,Urban Terror,Free multiplayer first person shooter developed by FrozenSand,sudo snap install urban-terror,https://dashboard.snapcraft.io/site_media/appmedia/2018/11/urban-terror_vKNyrRA.png,games
+56,Minetest (luk3yx's unofficial builds),luk3yx's unofficial Minetest builds. Credit to the snappy playpen.,sudo snap install minetest-luk3yx,https://dashboard.snapcraft.io/site_media/appmedia/2016/12/minetest.svg_1.png,games
+57,GNOME Sudoku,Test your logic skills in this number grid puzzle,sudo snap install gnome-sudoku,https://dashboard.snapcraft.io/site_media/appmedia/2017/07/gnome-sudoku.svg.png,games
+58,minecraft-nsg,Minecraft Launcher downloader,sudo snap install minecraft-nsg,https://dashboard.snapcraft.io/site_media/appmedia/2016/10/minecraft-nsg-256.png,games
+59,MAME,Multiple Arcade Machine Emulator (MAME),sudo snap install mame,https://dashboard.snapcraft.io/site_media/appmedia/2016/11/mame.png,games
+60,gamehub-fenriswolf,"Games manager written in Vala that supports GOG, Steam and Humble Bundle",sudo snap install gamehub-fenriswolf--edge,https://dashboard.snapcraft.io/site_media/appmedia/2018/07/index.svg.png,games
+61,node-games,Three fun console games written using Node.,sudo snap install node-games,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,games
+62,game-2048,2048 puzzle game,sudo snap install game-2048,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,games
+63,C&C: Red Alert 2 Yuri's Revenge,C&C Red Alert 2 Yuri's Revenge is a real-time strategy game.,sudo snap install cncra2yr,https://dashboard.snapcraft.io/site_media/appmedia/2018/11/cncra2yr.png,games
+64,pingus-game,Free Lemmings(TM) clone,sudo snap install pingus-game,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,games
+65,savagexr,"Savage XR - The Battle for Newerth, an online team based action strategy game.",sudo snap install savagexr--beta,https://dashboard.snapcraft.io/site_media/appmedia/2018/10/org.newerth.savagexr.icon256.png,games
+66,Eternal Lands MMORPG,Eternal Lands is a free 3D fantasy MMORPG (massively multiplayer online role playing game).,sudo snap install eternallands,https://dashboard.snapcraft.io/site_media/appmedia/2018/07/gallery_4_9_63565.png,games
+67,hanoi-tower,Latest version of Hanoi Tower,sudo snap install hanoi-tower,https://dashboard.snapcraft.io/site_media/appmedia/2018/05/icon_2ohoxuW.png,games
+68,Collision,A ball dodging game,sudo snap install collision,https://dashboard.snapcraft.io/site_media/appmedia/2017/03/icon_13.png,games
+69,Love2d,Hi there! LÖVE is here :),sudo snap install love2d,https://dashboard.snapcraft.io/site_media/appmedia/2018/05/icon_QyS3RIm.png,games
+70,level9,Interpreter for Level 9 interactive fiction games,sudo snap install level9,https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon.svg_7.png,games
+71,Moonlight,Play games remotely from your NVIDIA GameStream-enabled PC,sudo snap install moonlight,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/moonlight.png,games
+72,gdlauncher,GDLauncher,sudo snap install gdlauncher--beta,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/icon_vhATTcE.png,games
+73,ags,adventure game studio engine for playing ags games.,sudo snap install ags,https://dashboard.snapcraft.io/site_media/appmedia/2018/09/icon_lArcUS5.png,games
+74,mgba,mGBA Game Boy Advance Emulator https://mgba.io/,sudo snap install mgba,https://dashboard.snapcraft.io/site_media/appmedia/2017/11/mgba.png,games
+75,vitetris,Console based version of Tetris,sudo snap install vitetris,https://dashboard.snapcraft.io/site_media/appmedia/2016/08/icon.svg_4.png,games
+76,LambdaRogue: The Book of Stars,LambdaRogue is a roguelike RPG,sudo snap install lambdarogue--beta,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/lambdarogue.png,games
+77,codenamelt,A pixelart game where you have to run without getting caught by evil agents.,sudo snap install codenamelt,https://dashboard.snapcraft.io/site_media/appmedia/2018/02/icon_256x256.png,games
+78,ksirk,Risk strategy game,sudo snap install ksirk,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/ksirk.png,games
+79,gnome-hitori,Play the Hitori puzzle game,sudo snap install gnome-hitori,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/org.gnome.Hitori.png,games
+80,kanagame,A simple flashcard based game for learning kana.,sudo snap install kanagame,https://dashboard.snapcraft.io/site_media/appmedia/2017/04/kanagame_export_1.png,games
+81,PrBoom+ (fork),A version of the classic 3D shoot'em'up game Doom,sudo snap install prboom-plus-beidl,https://dashboard.snapcraft.io/site_media/appmedia/2018/06/prboom-plus.svg.png,games
+82,kigo,Go Board Game,sudo snap install kigo--candidate,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/kigo.png,games
+83,hanoi-towers,Hanoi Towers Game,sudo snap install hanoi-towers,https://dashboard.snapcraft.io/site_media/appmedia/2018/02/icon_k18IuUu.png,games
+84,epicpinball,Epic Pinball shareware installer,sudo snap install epicpinball,https://dashboard.snapcraft.io/site_media/appmedia/2017/12/epicpinball_cvAHhfi.png,games
+85,freeorion,Turn-based space empire and galactic conquest (4X) computer game,sudo snap install freeorion,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/icon_aKhuCoF.png,games
+86,Gnome Twitch,Enjoy Twitch on your GNU/Linux desktop,sudo snap install gnome-twitch,https://dashboard.snapcraft.io/site_media/appmedia/2017/08/com.vinszent.GnomeTwitch.png,games
+87,CorsixTH,Open source clone of Theme Hospital,sudo snap install corsixth,https://dashboard.snapcraft.io/site_media/appmedia/2018/04/corsixth.png,games
+88,Linux Tycoon,Linux Tycoon for DOS,sudo snap install linuxtycoon,https://dashboard.snapcraft.io/site_media/appmedia/2018/04/linuxtycoon.png,games
+89,Solarus,A free and open-source Action-RPG game engine,sudo snap install solarus,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/snapstore_icon.png,games
+90,Reicast,Reicast is a Sega Dreamcast emulator,sudo snap install reicast,https://dashboard.snapcraft.io/site_media/appmedia/2018/07/reicast-logo-256.png,games
+91,Omission,A deceptively simple word puzzle.,sudo snap install omission--beta,https://dashboard.snapcraft.io/site_media/appmedia/2017/08/omission_icon.png,games
+92,bomber,Arcade Bombing Game,sudo snap install bomber,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/bomber.svg.png,games
+93,VCMI,VCMI — Open-source engine for Heroes of Might and Magic III,sudo snap install vcmi--edge,https://dashboard.snapcraft.io/site_media/appmedia/2017/09/vcmiclient.256x256.png,games
+94,GNOME Mines,Clear hidden mines from a minefield,sudo snap install gnome-mines,https://dashboard.snapcraft.io/site_media/appmedia/2017/09/gnome-mines.png,games
+95,kubrick,A 3-D game based on Rubik's Cube,sudo snap install kubrick,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/kubrick.png,games
+96,palapeli,Jigsaw puzzle game,sudo snap install palapeli,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/palapeli_9eQYMiV.png,games
+97,GNOME Klotski,Slide blocks to solve the puzzle,sudo snap install gnome-klotski,https://dashboard.snapcraft.io/site_media/appmedia/2017/09/gnome-klotski.svg.png,games
+98,ksudoku,"KSudoku, Sudoku game & more by KDE",sudo snap install ksudoku,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/ksudoku.png,games
+99,kmines,Minesweeper-like Game,sudo snap install kmines,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/kmines.png,games
+100,kgoldrunner,A game of action and puzzle-solving,sudo snap install kgoldrunner,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/kgoldrunner_m4iRUVR.png,games
+101,nethack,The popular nethack console adventure,sudo snap install nethack,https://dashboard.snapcraft.io/site_media/appmedia/2018/04/icon_6B4DS2H.png,games
+102,kblocks,Falling Blocks Game,sudo snap install kblocks,https://dashboard.snapcraft.io/site_media/appmedia/2016/10/kblocks.svg.png,games
+103,bovo,"""Five in a row"" board game",sudo snap install bovo,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/bovo.png,games
+104,GNOME Nibbles,Guide a worm around a maze,sudo snap install gnome-nibbles,https://dashboard.snapcraft.io/site_media/appmedia/2017/09/gnome-nibbles.svg.png,games
+105,blinken,Memory Enhancement Game,sudo snap install blinken,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/blinken.svg.png,games
+106,KPatience,Solitaire card game,sudo snap install kpat,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/kpat.svg.png,games
+107,kfourinline,Connect Four game,sudo snap install kfourinline,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/128-apps-kfourinline.png,games
+108,klickety,SameGame puzzle game,sudo snap install klickety,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/klickety.png,games
+109,kmahjongg,mahjongg solitaire game,sudo snap install kmahjongg--candidate,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,games
+110,kspaceduel,Space Arcade Game,sudo snap install kspaceduel,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/kspaceduel.png,games
+111,kanagram,KDE Letter Order Game,sudo snap install kanagram,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/kanagramicon.png,games
+112,klines,color lines game,sudo snap install klines,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/klines.png,games
+113,ksnakeduel,Tron-like Game,sudo snap install ksnakeduel,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/ksnakeduel_Tm67e6C.png,games
+114,kblackbox,Blackbox Logic Game,sudo snap install kblackbox,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/kblackbox.png,games
+115,killbots,port of the classic BSD console game robots,sudo snap install killbots,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/killbots_3X2FBuM.png,games
+116,knetwalk,wire puzzle game,sudo snap install knetwalk--candidate,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/knetwalk_rNySFRA.png,games
+117,kreversi,Reversi Board Game,sudo snap install kreversi--candidate,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/kreversi_VIE4fr4.png,games
+118,katomic,Sokoban-like Logic Game,sudo snap install katomic,https://dashboard.snapcraft.io/site_media/appmedia/2017/01/icon_20.png,games
+119,Iagno,Dominate the board in a classic version of Reversi,sudo snap install iagno,https://dashboard.snapcraft.io/site_media/appmedia/2017/09/iagno.png,games
+120,kbreakout,ball and paddle game,sudo snap install kbreakout,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/kbreakout.svg.png,games
+121,knavalbattle,battleship board game,sudo snap install knavalbattle,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/knavalbattle_Zh4JuW1.png,games
+122,picmi,Puzzle game based on number logic,sudo snap install picmi,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/picmi.svg.png,games
+123,kiriki,Yahtzee-like Dice Game,sudo snap install kiriki,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/kiriki_zhKG1Kn.png,games
+124,ktuberling,A simple constructor game suitable for children and adults alike,sudo snap install ktuberling,https://dashboard.snapcraft.io/site_media/appmedia/2017/01/ktuberling.png,games
+125,kjumpingcube,simple tactical game,sudo snap install kjumpingcube,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/kjumpingcube.png,games
+126,kollision,Casual ball game,sudo snap install kollision,https://dashboard.snapcraft.io/site_media/appmedia/2017/01/kollision.png,games
+127,kbounce,Jezzball arcade game,sudo snap install kbounce,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/kbounce_Rs0Sw5I.png,games
+128,kshisen,Shisen-Sho Mahjongg-like Tile Game,sudo snap install kshisen--candidate,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/kshisen.png,games
+129,kapman,Eat pills escaping ghosts,sudo snap install kapman,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/kapman.png,games
+130,ksquares,Connect the dots to create squares,sudo snap install ksquares,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/ksquares.png,games
+131,konquest,Galactic Strategy Game,sudo snap install konquest,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/konquest_om8CypS.png,games
+132,granatier,Bomberman clone,sudo snap install granatier,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/granatier.svg.png,games
+133,Ascii Patrol,Ascii Patrol,sudo snap install ascii-patrol,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/aaaa.png,games
+134,azimuth,Azimuth - A metroidvania with vector graphics,sudo snap install azimuth,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/azimuth480.png,games
+135,Rigs of Rods,Rigs of Rods,sudo snap install rigs-of-rods--candidate,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/rorlogo.png,games
+136,Swell Foop,Clear the screen by removing groups of colored and shaped tiles,sudo snap install swell-foop,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/org.gnome.SwellFoop.png,games
+137,OGRE Sample Browser,Object-Oriented Graphics Rendering Engine,sudo snap install ogre,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/16446637.png,games
+138,mc-server-installer,Minecraft Server Downloader and Installer,sudo snap install mc-server-installer,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/mc-server-logo_69U7bCm.png,games
+139,Pixels,Pixels Game,sudo snap install pixels-game--beta,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/pixelslogo.png,games
+140,BZFlag,A 3D first person tank battle game,sudo snap install bzflag,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/bzflag-256x256.png,games
+141,Mari0 (UNOFFICIAL),Mario + Portal platformer,sudo snap install mari0,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/icon_3mrgAxU.png,games
+142,glest,Glest,sudo snap install glest--edge,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/glest.jpg.png,games
+143,den,A multiplayer game for your terminal,sudo snap install den,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/iconfinder_social_0_492964.svg.png,games
+144,GNOME 2048,Obtain the 2048 tile,sudo snap install gnome-2048,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/org.gnome.TwentyFortyEight.png,games
+145,teeworlds,A retro multiplayer shooter,sudo snap install teeworlds-unofficial,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/teeworlds.png,games
+146,wyvern,CLI GOG downloader client,sudo snap install wyvern--beta,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,games
+147,Cave Story | NXEngine Evo,Doukutsu Monogatari - Classic side-scrolling platformer game,sudo snap install cavestory,https://dashboard.snapcraft.io/site_media/appmedia/2018/03/icon_x256.png,games
+148,CRRCSim,Model airplane flight simulator,sudo snap install crrcsim-simulator,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/crrcsim.png,games
+149,Open Syobon Action (オープンしょぼんのアクション),An open-source cross-platform port of the unforgiving Japanese platformer,sudo snap install open-syobon-action,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/icon_rqE3xTM.png,games
+150,Lightsoff,Turn off all the lights,sudo snap install lightsoff,https://dashboard.snapcraft.io/site_media/appmedia/2017/09/lightsoff.svg.png,games
+151,Foobillard-plus,Billard game simulator,sudo snap install foobillard-plus,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/foobillardplus.png,games
+152,GNOME Tetravex,Reorder tiles to fit a square,sudo snap install gnome-tetravex,https://dashboard.snapcraft.io/site_media/appmedia/2017/09/gnome-tetravex.svg.png,games
+153,roll,A python dice rolling application using standard dice notation,sudo snap install roll,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,games
+154,Caprice32 Amstrad CPC emulator,Amstrad CPC emulator,sudo snap install caprice32,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/logocaprice32_256x256.jpeg.png,games
+155,Solvitaire,solitaire (klondike & spider) in your terminal,sudo snap install solvitaire,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/Screenshot_from_2019-02-13_00-51-42.png,games
+156,mki3dgame-snap,A game of finding tokens in 3D stages among the flying monsters.,sudo snap install mki3dgame-snap,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/mkisg_icon_256x256.png,games
+157,discord-bartixxx,Free voice and text chat,sudo snap install discord-bartixxx,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,games
+158,CCLite,A ComputerCraft Emulator,sudo snap install cclite,https://dashboard.snapcraft.io/site_media/appmedia/2018/02/Icon.png,games
+159,The Traveling Fox,Simple FOSS 3D Platformer,sudo snap install the-traveling-fox,https://dashboard.snapcraft.io/site_media/appmedia/2017/10/icon.png,games
+160,Snipes,Snipes,sudo snap install snipes,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/snipes.png,games
+161,freeorion-agrrr3,turn-based space empire and galactic conquest (4X) computer game,sudo snap install freeorion-agrrr3,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/icon_K305QuG.png,games
+162,bzflag-tjhanson,Free 3D online multi-player multi-platform tank battle game.,sudo snap install bzflag-tjhanson,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,games
+163,GNOME Robots,Avoid the robots and make them crash into each other,sudo snap install gnome-robots,https://dashboard.snapcraft.io/site_media/appmedia/2017/09/gnome-robots.svg.png,games
+164,love,Free 2D Game Engine,sudo snap install love,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/icon.svg_kOjMATf.png,games
+165,citra-mts,Nintendo 3DS Emulator,sudo snap install citra-mts--edge,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/icon_wCgQE96.png,games
+166,Morpion,Morpion,sudo snap install morpion,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/icon5.png,games
+167,xbill,Get rid of those Wingdows Viruses!,sudo snap install xbill-xaw,https://dashboard.snapcraft.io/site_media/appmedia/2018/04/xbill.png,games
+168,Neverbore Picross,A picture logic puzzle game,sudo snap install neverbore,https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_4.png,games
+169,Mari0: CE (UNOFFICIAL),A community-driven effort to fix and polish the latest version of Mari0:SE,sudo snap install mari0-ce,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/icon_YO1U6uT.png,games
+170,Ion Digital Currency (Official release),gaming related peer-to-peer network based digital currency,sudo snap install ioncore,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/ion256.png,games
+171,Dwarf Fortress Classic,Dwarf Fortress world simulator.,sudo snap install dwarffortress,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/snap.png,games
+172,squarehead,SquareHead classic game,sudo snap install squarehead,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/icon_PKV0pos.png,games
+173,Open Karaoke Producer,Open Karaoke Producer,sudo snap install open-karaoke-producer,https://dashboard.snapcraft.io/site_media/appmedia/2018/11/icon_6S4kC3t.png,games
+174,Five or More,Remove colored balls from the board by forming lines,sudo snap install five-or-more,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/five-or-more.png,games
+175,Minetest 0.4 (unofficial fork),minetest-luk3yx-4: A Minetest 0.4 fork.,sudo snap install minetest-luk3yx-4,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/minetest.png,games
+176,OS RuneScape Launcher,Old School RuneScape launcher,sudo snap install os-runes,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/Q9R2vbB9_oXgNWoE3GgdDutm-rgdpDh0Ny1KEJYJMto_hLNG3JR.png,games
+177,OpenTyrian,An arcade-style shoot 'em up,sudo snap install opentyrian,https://dashboard.snapcraft.io/site_media/appmedia/2017/09/icon_li9ewjs.png,games
+178,cataclysm,Post-apocalyptic survival roguelike,sudo snap install cataclysm,https://dashboard.snapcraft.io/site_media/appmedia/2018/10/icon.svg_lu2jikq.png,games

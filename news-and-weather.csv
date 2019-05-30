@@ -1,14 +1,14 @@
-1,Meteo,"Know the forecast of the next hours and days, with data and maps",sudo snap install meteo,New and Weather
-2,Halo - The Weather App,The Weather App,sudo snap install halo-weather,New and Weather
-3,Newsboat,An RSS/Atom feed reader for text terminals,sudo snap install newsboat,New and Weather
-4,rssnotify,E-mail updates to a list of RSS Feeds (usually with a cron job).,sudo snap install rssnotify,New and Weather
-5,rssepisodeextractor,Get a list of links to the episodes of a podcast.,sudo snap install rssepisodeextractor--edge,New and Weather
-6,phoronix-news,phoronix-news,sudo snap install phoronix-news,New and Weather
-7,Ubuntu Newsblur,Newsblur Client for Ubuntu Devices,sudo snap install ubuntu-newsblur--edge,New and Weather
-8,ubuntu-weather-app,ubuntu weather app.,sudo snap install ubuntu-weather-app--edge,New and Weather
-9,wethr,Command line weather tool.,sudo snap install wethr,New and Weather
-10,yandex-weather-cli,Yandex weather cli,sudo snap install yandex-weather-cli,New and Weather
-11,Sunwait,Sunwait is a program for calculating sunrise and sunset,sudo snap install sunwait,New and Weather
-12,Raven Reader,Raven Reader,sudo snap install raven-reader,New and Weather
-13,Observer core (obsr),OBSR is OBServer's core wallet software.,sudo snap install obsr,New and Weather
-14,AlArabiya,AlArabiya,sudo snap install alarabiya-desktop,New and Weather
+1,Meteo,"Know the forecast of the next hours and days, with data and maps",sudo snap install meteo,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/meteo.png,New and Weather
+2,Halo - The Weather App,The Weather App,sudo snap install halo-weather,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/icon.svg_G2JtBZk.png,New and Weather
+3,Newsboat,An RSS/Atom feed reader for text terminals,sudo snap install newsboat,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,New and Weather
+4,rssnotify,E-mail updates to a list of RSS Feeds (usually with a cron job).,sudo snap install rssnotify,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,New and Weather
+5,rssepisodeextractor,Get a list of links to the episodes of a podcast.,sudo snap install rssepisodeextractor--edge,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,New and Weather
+6,phoronix-news,phoronix-news,sudo snap install phoronix-news,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,New and Weather
+7,Ubuntu Newsblur,Newsblur Client for Ubuntu Devices,sudo snap install ubuntu-newsblur--edge,https://dashboard.snapcraft.io/site_media/appmedia/2017/01/newsblur-suru-logo.svg.png,New and Weather
+8,ubuntu-weather-app,ubuntu weather app.,sudo snap install ubuntu-weather-app--edge,https://dashboard.snapcraft.io/site_media/appmedia/2017/01/icon_10.png,New and Weather
+9,wethr,Command line weather tool.,sudo snap install wethr,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,New and Weather
+10,yandex-weather-cli,Yandex weather cli,sudo snap install yandex-weather-cli,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,New and Weather
+11,Sunwait,Sunwait is a program for calculating sunrise and sunset,sudo snap install sunwait,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,New and Weather
+12,Raven Reader,Raven Reader,sudo snap install raven-reader,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/icon_ea8Z5Eb.png,New and Weather
+13,Observer core (obsr),OBSR is OBServer's core wallet software.,sudo snap install obsr,https://dashboard.snapcraft.io/site_media/appmedia/2018/10/bitcoin256.png,New and Weather
+14,AlArabiya,AlArabiya,sudo snap install alarabiya-desktop,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/icon_vJGj0iy.png,New and Weather

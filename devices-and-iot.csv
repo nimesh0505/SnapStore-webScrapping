@@ -1,60 +1,60 @@
-1,Node-RED,A visual tool for wiring the Internet of Things,sudo snap install node-red,Devices and IOT
-2,edgexfoundry,Open-source framework for IoT edge computing,sudo snap install edgexfoundry,Devices and IOT
-3,Mycroft,Your AI personal assistant!,sudo snap install mycroft,Devices and IOT
-4,soracom-console,Soracom console Web App,sudo snap install soracom-console,Devices and IOT
-5,Thinger.io Maker Server,Thinger.io Internet Of Things Server,sudo snap install thinger-maker-server,Devices and IOT
-6,nymea:core,An open source IoT server,sudo snap install nymea,Devices and IOT
-7,nymea:app,Client application for nymea,sudo snap install nymea-app,Devices and IOT
-8,Kura™,"Eclipse Kura™, An OSGi-based Application Framework for M2M Service Gateways",sudo snap install kura,Devices and IOT
-9,Lantern Tech - Hunt-R Series Gateway Firmware,Your productivity booster for industrial machinery!,sudo snap install hunt-r,Devices and IOT
-10,ixagent,IX Agent for IIoT Administration,sudo snap install ixagent,Devices and IOT
-11,flexran,FlexRAN SD-RAN platform,sudo snap install flexran,Devices and IOT
-12,oai-ran,OpenAirInterface RAN entity with FlexRAN Agent/Runtime,sudo snap install oai-ran,Devices and IOT
-13,oai-cn,OpenAirInterface CN entity with LL-MEC Agent,sudo snap install oai-cn--candidate,Devices and IOT
-14,ll-mec,Low Latency MEC platform,sudo snap install ll-mec,Devices and IOT
-15,wifi-ap,WiFi Access Point based on hostapd,sudo snap install wifi-ap,Devices and IOT
-16,openHAB,openHAB smart home server,sudo snap install openhab,Devices and IOT
-17,HOMEbridge,HomeKit support for the impatient,sudo snap install homebridge,Devices and IOT
-18,UBports Installer,The easy way to install Ubuntu Touch on UBports devices.,sudo snap install ubports-installer,Devices and IOT
-19,magic-device-tool,magic-device-tool,sudo snap install magic-device-tool,Devices and IOT
-20,Kiosc,Customise your touch screen user-interface,sudo snap install kiosc,Devices and IOT
-21,Kiosc Editor,Customizable user-interface for the Visual Productions lighting controllers,sudo snap install kiosceditor,Devices and IOT
-22,RightPlayer,Right Player is a digital signage application,sudo snap install rightplayer,Devices and IOT
-23,microservicebus-node,microservicebus-node is the node.js based agent used for microServiceBus.com,sudo snap install microservicebus-node,Devices and IOT
-24,TelemetryTV Media Player,TelemetryTV Player,sudo snap install telemetrytv,Devices and IOT
-25,idid,idid,sudo snap install idid,Devices and IOT
-26,WPE WebKit for Mir Kiosk,WPE Webkit in kiosk mode. Intended for mir-kiosk on embedded devices.,sudo snap install wpe-webkit-mir-kiosk,Devices and IOT
-27,gowol,A quick and easy way to wake up a computer via a snap,sudo snap install gowol--edge,Devices and IOT
-28,Karuta,Karuta is a scripting language for FPGA design (so called HLS).,sudo snap install karuta,Devices and IOT
-29,Xibo Digital Signage Player,Xibo Digital Signage Player,sudo snap install xibo-player--beta,Devices and IOT
-30,Hardware Probe,Check operability of computer hardware and find drivers,sudo snap install hw-probe,Devices and IOT
-31,natcloud,A NAT for Intranet,sudo snap install natcloud,Devices and IOT
-32,huacaya-server,A demo server solution to manage Ubuntu devices,sudo snap install huacaya-server--beta,Devices and IOT
-33,BTCTools,An Antminer Management Tool from BTC.com,sudo snap install btctools,Devices and IOT
-34,adsb-box,Collection of ADS-B tools,sudo snap install adsb-box,Devices and IOT
-35,dash,POSIX-compliant shell,sudo snap install dash-shell,Devices and IOT
-36,Hardware Sensors Indicator,Provide hardware sensors readings in your desktop panel,sudo snap install indicator-sensors,Devices and IOT
-37,dspatcher,Cross-Platform Graphical Tool for DSPatch,sudo snap install dspatcher--beta,Devices and IOT
-38,MetaTron,Global Internet Monitoring Agent,sudo snap install metatron,Devices and IOT
-39,Strawberry Music Player,music player and collection organizer,sudo snap install strawberry,Devices and IOT
-40,MQTT Explorer,A comprehensive and easy to use MQTT Client,sudo snap install mqtt-explorer,Devices and IOT
-41,tpm2-tools-alexmurray,TPM 2.0 utilities,sudo snap install tpm2-tools-alexmurray,Devices and IOT
-42,stifts-terminal,Terminal Application,sudo snap install stifts-terminal,Devices and IOT
-43,EdgeX InfluxDB Proxy Server,Proxy data from EdgeX device services to InfluxDB using export-distro,sudo snap install edgex-influx-proxy,Devices and IOT
-44,modem-manager,ModemManager is a service which controls mobile broadband,sudo snap install modem-manager,Devices and IOT
-45,Nordic Thingy52 Dev Kit,Compact multi-sensor BLE prototyping platform,sudo snap install thingy52,Devices and IOT
-46,AWS IoT Greengrass,"Bring local compute, messaging, data caching, sync, and ML inference capabilities to edge devices",sudo snap install aws-iot-greengrass,Devices and IOT
-47,modem-manager,ModemManager is a service which controls mobile broadband,sudo snap install modem-manager,Devices and IOT
-48,Nordic Thingy52 Dev Kit,Compact multi-sensor BLE prototyping platform,sudo snap install thingy52,Devices and IOT
-49,AWS IoT Greengrass,"Bring local compute, messaging, data caching, sync, and ML inference capabilities to edge devices",sudo snap install aws-iot-greengrass,Devices and IOT
-50,rigado-cli,Rigado CLI,sudo snap install rigado-cli--edge,Devices and IOT
-51,micropython,MicroPython Unix port,sudo snap install micropython,Devices and IOT
-52,tio,A simple TTY terminal I/O application,sudo snap install tio --classic,Devices and IOT
-53,dataclerk,A simple server for storing your data,sudo snap install dataclerk,Devices and IOT
-54,mi-tutorial-leds-joystick,Tutorial de ROS para controlar el brillo de dos leds,sudo snap install mi-tutorial-leds-joystick--candidate,Devices and IOT
-55,redirect-to,"Simple, very fast, in a single binary, with web UI HTTP redirect service",sudo snap install redirect-to,Devices and IOT
-56,v4l2-rtspserver,RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9,sudo snap install v4l2-rtspserver,Devices and IOT
-57,Little Orange Display,Demonstration app using Ubuntu Core and a Raspberry Pi,sudo snap install little-orange-display,Devices and IOT
-58,unixbench,the revised BYTE UNIX benchmark suite,sudo snap install unixbench,Devices and IOT
-59,shadowsocks,"A fast tunnel proxy that helps you bypass ""Firewalls""",sudo snap install shadowsocks,Devices and IOT
-60,Nordic Thingy52 EdgeX Device Service,EdgeX Device Service for Nordic Thingy52 BLE sensor,sudo snap install edgexfoundry-device-thingy52-ijohnson--candidate,Devices and IOT
+1,Node-RED,A visual tool for wiring the Internet of Things,sudo snap install node-red,https://dashboard.snapcraft.io/site_media/appmedia/2017/01/nr-hex_1.png,Devices and IOT
+2,edgexfoundry,Open-source framework for IoT edge computing,sudo snap install edgexfoundry,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/icon_Hx6IyH0.png,Devices and IOT
+3,Mycroft,Your AI personal assistant!,sudo snap install mycroft,https://dashboard.snapcraft.io/site_media/appmedia/2018/06/icon_brV5dye.png,Devices and IOT
+4,soracom-console,Soracom console Web App,sudo snap install soracom-console,https://dashboard.snapcraft.io/site_media/appmedia/2017/02/logo-256_1.png,Devices and IOT
+5,Thinger.io Maker Server,Thinger.io Internet Of Things Server,sudo snap install thinger-maker-server,https://dashboard.snapcraft.io/site_media/appmedia/2017/03/thinger_256.png,Devices and IOT
+6,nymea:core,An open source IoT server,sudo snap install nymea,https://dashboard.snapcraft.io/site_media/appmedia/2018/09/nymea-app.svg_g8yCzKU.png,Devices and IOT
+7,nymea:app,Client application for nymea,sudo snap install nymea-app,https://dashboard.snapcraft.io/site_media/appmedia/2018/09/nymea-app.svg.png,Devices and IOT
+8,Kura™,"Eclipse Kura™, An OSGi-based Application Framework for M2M Service Gateways",sudo snap install kura,https://dashboard.snapcraft.io/site_media/appmedia/2018/07/icon_8BAXEYq.png,Devices and IOT
+9,Lantern Tech - Hunt-R Series Gateway Firmware,Your productivity booster for industrial machinery!,sudo snap install hunt-r,https://dashboard.snapcraft.io/site_media/appmedia/2018/05/logo_huntr256x256.png,Devices and IOT
+10,ixagent,IX Agent for IIoT Administration,sudo snap install ixagent,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,Devices and IOT
+11,flexran,FlexRAN SD-RAN platform,sudo snap install flexran,https://dashboard.snapcraft.io/site_media/appmedia/2018/04/m5g-flexran.png,Devices and IOT
+12,oai-ran,OpenAirInterface RAN entity with FlexRAN Agent/Runtime,sudo snap install oai-ran,https://dashboard.snapcraft.io/site_media/appmedia/2018/04/m5g-oai-ran.png,Devices and IOT
+13,oai-cn,OpenAirInterface CN entity with LL-MEC Agent,sudo snap install oai-cn--candidate,https://dashboard.snapcraft.io/site_media/appmedia/2018/04/m5g-oai-cn.png,Devices and IOT
+14,ll-mec,Low Latency MEC platform,sudo snap install ll-mec,https://dashboard.snapcraft.io/site_media/appmedia/2018/03/m5g-llmec.png,Devices and IOT
+15,wifi-ap,WiFi Access Point based on hostapd,sudo snap install wifi-ap,https://dashboard.snapcraft.io/site_media/appmedia/2016/08/icon_16.png,Devices and IOT
+16,openHAB,openHAB smart home server,sudo snap install openhab,https://dashboard.snapcraft.io/site_media/appmedia/2017/11/favicon.png,Devices and IOT
+17,HOMEbridge,HomeKit support for the impatient,sudo snap install homebridge,https://dashboard.snapcraft.io/site_media/appmedia/2018/10/Logo2x.png,Devices and IOT
+18,UBports Installer,The easy way to install Ubuntu Touch on UBports devices.,sudo snap install ubports-installer,https://dashboard.snapcraft.io/site_media/appmedia/2017/09/256x256_h3aYso1.png,Devices and IOT
+19,magic-device-tool,magic-device-tool,sudo snap install magic-device-tool,https://dashboard.snapcraft.io/site_media/appmedia/2016/12/mdticon.png,Devices and IOT
+20,Kiosc,Customise your touch screen user-interface,sudo snap install kiosc,https://dashboard.snapcraft.io/site_media/appmedia/2017/06/icon_transparent_256_baH3ex2.png,Devices and IOT
+21,Kiosc Editor,Customizable user-interface for the Visual Productions lighting controllers,sudo snap install kiosceditor,https://dashboard.snapcraft.io/site_media/appmedia/2017/07/icon_kiosc_editor_transparent_256.png,Devices and IOT
+22,RightPlayer,Right Player is a digital signage application,sudo snap install rightplayer,https://dashboard.snapcraft.io/site_media/appmedia/2018/07/1_256x256_naePq1X.png,Devices and IOT
+23,microservicebus-node,microservicebus-node is the node.js based agent used for microServiceBus.com,sudo snap install microservicebus-node,https://dashboard.snapcraft.io/site_media/appmedia/2018/03/Logo-256X256.png,Devices and IOT
+24,TelemetryTV Media Player,TelemetryTV Player,sudo snap install telemetrytv,https://dashboard.snapcraft.io/site_media/appmedia/2019/02/telemetry_appicon_256.png,Devices and IOT
+25,idid,idid,sudo snap install idid,https://dashboard.snapcraft.io/site_media/appmedia/2018/03/idid.png,Devices and IOT
+26,WPE WebKit for Mir Kiosk,WPE Webkit in kiosk mode. Intended for mir-kiosk on embedded devices.,sudo snap install wpe-webkit-mir-kiosk,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,Devices and IOT
+27,gowol,A quick and easy way to wake up a computer via a snap,sudo snap install gowol--edge,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/gowol.png,Devices and IOT
+28,Karuta HLS Compiler,Karuta is a scripting language for FPGA design (so called HLS).,sudo snap install karuta,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/wp_400x400.jpg.png,Devices and IOT
+29,Xibo Digital Signage Player,Xibo Digital Signage Player,sudo snap install xibo-player--candidate,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/XIBO-LOGO-512-PNG-SQUARED.png,Devices and IOT
+30,Hardware Probe,Check operability of computer hardware and find drivers,sudo snap install hw-probe,https://dashboard.snapcraft.io/site_media/appmedia/2018/09/icon_uhPCBaA.png,Devices and IOT
+31,natcloud,A NAT for Intranet,sudo snap install natcloud,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,Devices and IOT
+32,huacaya-server,A demo server solution to manage Ubuntu devices,sudo snap install huacaya-server--beta,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,Devices and IOT
+33,BTCTools,An Antminer Management Tool from BTC.com,sudo snap install btctools,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/icon.svg_wa2MiTP.png,Devices and IOT
+34,adsb-box,Collection of ADS-B tools,sudo snap install adsb-box,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,Devices and IOT
+35,dash,POSIX-compliant shell,sudo snap install dash-shell,https://dashboard.snapcraft.io/site_media/appmedia/2016/07/dash.png,Devices and IOT
+36,Hardware Sensors Indicator,Provide hardware sensors readings in your desktop panel,sudo snap install indicator-sensors,https://dashboard.snapcraft.io/site_media/appmedia/2018/11/indicator-sensors_r8EdpLP.png,Devices and IOT
+37,dspatcher,Cross-Platform Graphical Tool for DSPatch,sudo snap install dspatcher--beta,https://dashboard.snapcraft.io/site_media/appmedia/2019/05/heartbeat.png,Devices and IOT
+38,MetaTron,Global Internet Monitoring Agent,sudo snap install metatron,https://dashboard.snapcraft.io/site_media/appmedia/2017/07/Webp.net-resizeimage.png,Devices and IOT
+39,Strawberry Music Player,music player and collection organizer,sudo snap install strawberry,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/strawberry256.png,Devices and IOT
+40,MQTT Explorer,A comprehensive and easy to use MQTT Client,sudo snap install mqtt-explorer,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/icon_iw8lQW2.png,Devices and IOT
+41,tpm2-tools-alexmurray,TPM 2.0 utilities,sudo snap install tpm2-tools-alexmurray,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,Devices and IOT
+42,stifts-terminal,Terminal Application,sudo snap install stifts-terminal,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,Devices and IOT
+43,EdgeX InfluxDB Proxy Server,Proxy data from EdgeX device services to InfluxDB using export-distro,sudo snap install edgex-influx-proxy,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,Devices and IOT
+44,modem-manager,ModemManager is a service which controls mobile broadband,sudo snap install modem-manager,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,Devices and IOT
+45,Nordic Thingy52 Dev Kit,Compact multi-sensor BLE prototyping platform,sudo snap install thingy52,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/Thingy_symbol.png,Devices and IOT
+46,AWS IoT Greengrass,"Bring local compute, messaging, data caching, sync, and ML inference capabilities to edge devices",sudo snap install aws-iot-greengrass,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/product-icon_AWS-Greengrass_icon_squid_ink_125.png,Devices and IOT
+47,modem-manager,ModemManager is a service which controls mobile broadband,sudo snap install modem-manager,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,Devices and IOT
+48,Nordic Thingy52 Dev Kit,Compact multi-sensor BLE prototyping platform,sudo snap install thingy52,https://dashboard.snapcraft.io/site_media/appmedia/2019/03/Thingy_symbol.png,Devices and IOT
+49,AWS IoT Greengrass,"Bring local compute, messaging, data caching, sync, and ML inference capabilities to edge devices",sudo snap install aws-iot-greengrass,https://dashboard.snapcraft.io/site_media/appmedia/2019/04/product-icon_AWS-Greengrass_icon_squid_ink_125.png,Devices and IOT
+50,rigado-cli,Rigado CLI,sudo snap install rigado-cli--edge,https://dashboard.snapcraft.io/site_media/appmedia/2018/11/icon_xN2plgm.png,Devices and IOT
+51,micropython,MicroPython Unix port,sudo snap install micropython,https://dashboard.snapcraft.io/site_media/appmedia/2018/12/mp_logo.png,Devices and IOT
+52,tio,A simple TTY terminal I/O application,sudo snap install tio --classic,https://dashboard.snapcraft.io/site_media/appmedia/2016/06/tio-256x256.png,Devices and IOT
+53,dataclerk,A simple server for storing your data,sudo snap install dataclerk,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,Devices and IOT
+54,mi-tutorial-leds-joystick,Tutorial de ROS para controlar el brillo de dos leds,sudo snap install mi-tutorial-leds-joystick--candidate,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,Devices and IOT
+55,redirect-to,"Simple, very fast, in a single binary, with web UI HTTP redirect service",sudo snap install redirect-to,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/icon.svg_mS7EJSV.png,Devices and IOT
+56,v4l2-rtspserver,RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9,sudo snap install v4l2-rtspserver,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,Devices and IOT
+57,Little Orange Display,Demonstration app using Ubuntu Core and a Raspberry Pi,sudo snap install little-orange-display,https://dashboard.snapcraft.io/site_media/appmedia/2019/01/icon_6ktAF5C.png,Devices and IOT
+58,unixbench,the revised BYTE UNIX benchmark suite,sudo snap install unixbench,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,Devices and IOT
+59,shadowsocks,"A fast tunnel proxy that helps you bypass ""Firewalls""",sudo snap install shadowsocks,https://dashboard.snapcraft.io/site_media/appmedia/2016/02/shadowsocks-256px.png,Devices and IOT
+60,Nordic Thingy52 EdgeX Device Service,EdgeX Device Service for Nordic Thingy52 BLE sensor,sudo snap install edgexfoundry-device-thingy52-ijohnson--candidate,https://assets.ubuntu.com/v1/be6eb412-snapcraft-missing-icon.svg,Devices and IOT
